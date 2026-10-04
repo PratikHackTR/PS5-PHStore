@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=9TjY7C2KV9w
+
 # PHStore2
 
 PS5 için ücretsiz PH Store istemcisi. C ile yazılmış native servis, ELF içine gömülü HTML/CSS/JavaScript arayüzü ve PH / SP kaynak seçimi içerir. PH kaynak kodu geliştirme ve katkı için GPL-3.0-or-later kapsamında paylaşılır.
