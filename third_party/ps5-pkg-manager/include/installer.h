@@ -1,0 +1,73 @@
+#ifndef INSTALLER_H
+#define INSTALLER_H
+
+/* Up to 1 MiB of recent history for /api/log (2,048 lines x 512 bytes). */
+#define INSTALL_LOG_MAX_LINES 2048
+
+#include <stdint.h>
+#include <time.h>
+#include "pkg_parser.h"
+#include "install_service.h"
+
+#define PKG_DEFAULT_TMP_DIR "/data/pkgmgr2/tmp"
+
+typedef struct {
+    int is_installing;
+    char pkg_path[512];
+    char title_id[32];
+    char title_name[256];
+    char content_id[64];
+    char pkg_kind[16]; /* "base", "update", "dlc", "unknown" (for display naming) */
+    char pkg_version[32]; /* PKG APP_VER for update completion gating */
+    char status_str[32];
+    uint64_t downloaded_bytes;
+    uint64_t stream_served_bytes; /* bytes actually sent over our stream (never adopts stale sys values) */
+    uint64_t total_bytes;
+    float progress_percent;
+    int32_t error_code;
+    time_t start_time;
+    time_t last_poll_time;
+    int completed;
+    int failed;
+    int is_multipart;
+    uint32_t current_part;
+    uint32_t total_parts;
+    int waiting_for_disc;
+    char prompt_message[256];
+    /* Last native status snapshot returned by the upstream helper process. */
+    SceAppInstallStatusInstalled appinst_status;
+} installer_status_t;
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+int installer_init(const char *server_url);
+int installer_start(const char *pkg_path);
+/* PH Store adapter: starts the upstream worker with catalog-derived package metadata. */
+int installer_start_phstore(const pkg_detail_t *detail);
+/* Start a base package and queue its update in the native installer. The
+ * update is started after the base is fully finalized, even if the browser
+ * closes in the meantime. */
+int installer_start_batch(const char *base_pkg_path, const char *update_pkg_path);
+/* NEW: start from a live RAM session ("live:<id>"); see installer.c. */
+int installer_start_live(const char *live_uri);
+int installer_cancel(void);
+void installer_record_poll(void);
+void installer_get_status(installer_status_t *out);
+char *installer_status_to_json(void);
+void installer_notify_bytes_streamed(uint64_t bytes_read);
+void install_log(const char *fmt, ...);
+char *install_log_get_text(size_t *out_len);
+void install_log_clear(void);
+void install_log_set_file_path(const char *path);
+void installer_shutdown(void);
+int system_get_storage_info(uint64_t *out_free, uint64_t *out_total, uint64_t *out_used);
+int system_get_nvme_storage_info(uint64_t *out_free, uint64_t *out_total, uint64_t *out_used);
+int system_get_usb_storage_info(uint64_t *out_free, uint64_t *out_total, uint64_t *out_used);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif /* INSTALLER_H */

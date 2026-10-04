@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "generated_at": "2026-09-25T00:00:00Z",
+  "games": [
+    {
+      "id": "sample-game",
+      "platform": "ps5",
+      "title": "Sample Game",
+      "title_id": "PPSA00000",
+      "content_id": "UP0000-PPSA00000_00-SAMPLE0000000000",
+      "version": "1.0.0",
+      "description": "Sample catalog entry.",
+      "icon": "https://example.invalid/sample/icon.png",
+      "banner": "https://example.invalid/sample/banner.jpg",
+      "featured": true,
+      "categories": ["Action"],
+      "packages": [
+        { "id": "sample-base", "type": "base", "filename": "sample-base.pkg", "version": "1.00", "size_bytes": 123456789 },
+        { "id": "sample-update-101", "type": "update", "filename": "sample-update-1.01.pkg", "version": "1.01", "size_bytes": 12345678 }
+      ]
+    }
+  ]
+}

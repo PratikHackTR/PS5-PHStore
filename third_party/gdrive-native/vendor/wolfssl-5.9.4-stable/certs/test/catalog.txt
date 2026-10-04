@@ -1,0 +1,21 @@
+crit-cert.pem:
+  Simple self-signed certificate with critical Basic Constraints and Key Usage
+  extensions.
+dh512.pem, dh512.der:
+  512-bit DH parameters. Used for testing the rejection of lower-bit sized DH
+  keys.
+dh1024.pem, dh1024.der:
+  1024-bit DH parameters. Used for testing the rejection of lower-bit sized DH
+  keys.
+digsigku.pem:
+  ECC certificate with a KeyUsage extension without the digitalSignature bit
+  set.
+cert-ext-joi.pem:
+  Simple certificate that includes OIDs for JurisdictionOfIncorporation
+cert-ext-oid-collide.der:
+  Non-critical extension whose 4-byte OID has the same wc_oid_sum() as
+  prime256v1, so it maps to a NID with a longer canonical OID. Tests that
+  wolfSSL_X509_set_ext() sizes the ASN1_OBJECT buffer from the certificate's
+  OID, not the mapped one. Does not collide under WOLFSSL_OLD_OID_SUM.
+  Signature is invalid; only ever parsed, never verified. Regenerate with
+  certs/test/gen-oid-collide-cert.sh.

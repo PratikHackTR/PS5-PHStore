@@ -1,0 +1,6 @@
+{
+  "credential_values_removed": true,
+  "old_access_values_checked": 4,
+  "non_vendor_secret_patterns": 0,
+  "scan_scope": "all release source and dist files; build/cache excluded; public vendor test fixtures exempted from private-key scan"
+}

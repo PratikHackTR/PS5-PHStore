@@ -1,0 +1,43 @@
+{
+  "originalFileSize": 9984540672,
+  "packageDigest": "F7CB2FBB3B56C07427BCF43749F0FB83ACD3CD4A225CDCD70F16E68917CFA838",
+  "numberOfSplitFiles": 6,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExMzc5NC9QUFNBMTM3OTQuZXhmYXQucGFydDA=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "D7AD4D2A5E58A89AC923F07CEA429C3AA960E504"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExMzc5NC9QUFNBMTM3OTQuZXhmYXQucGFydDE=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "269BB7A8113EB37D3230EBA43A82ADCF8FF034F0"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExMzc5NC9QUFNBMTM3OTQuZXhmYXQucGFydDI=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "8F78BEE2EECC120FAD56A8ED9F1EEB92021D1187"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExMzc5NC9QUFNBMTM3OTQuZXhmYXQucGFydDM=",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "E6349D161A4EAACBCAC3F124F00FF889E7359502"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExMzc5NC9QUFNBMTM3OTQuZXhmYXQucGFydDQ=",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "959371DEA557C29C14763FBC37AD28424A5B5E2C"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExMzc5NC9QUFNBMTM3OTQuZXhmYXQucGFydDU=",
+      "fileOffset": 9500000000,
+      "fileSize": 484540672,
+      "hashValue": "6AB3A56B1BBA59ADB152BF88A5A55DAE10E44D3B"
+    }
+  ]
+}

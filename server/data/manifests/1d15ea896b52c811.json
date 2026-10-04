@@ -1,0 +1,43 @@
+{
+  "originalFileSize": 9633267712,
+  "packageDigest": "41E2D62BF815255C82D3B41B50830270037ACE343D45F0386BEA5013F7D1D569",
+  "numberOfSplitFiles": 6,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExODE5MS9QUFNBMTgxOTEuZXhmYXQucGFydDA=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "14FF7C10F692C047CB55DA95346C438BAF417594"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExODE5MS9QUFNBMTgxOTEuZXhmYXQucGFydDE=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "1D110D9000B4C60064A9DE6B2709236FD7EF885D"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExODE5MS9QUFNBMTgxOTEuZXhmYXQucGFydDI=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "C2ED66261AE2A7BAABFE45E124BF123F803C162E"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExODE5MS9QUFNBMTgxOTEuZXhmYXQucGFydDM=",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "907BC4B4E6CB74DFAA2E614CFADCD07F6233A4BC"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExODE5MS9QUFNBMTgxOTEuZXhmYXQucGFydDQ=",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "68704BCAD88445FC4B1ECE05C4069434EA1B8AE2"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0ExODE5MS9QUFNBMTgxOTEuZXhmYXQucGFydDU=",
+      "fileOffset": 9500000000,
+      "fileSize": 133267712,
+      "hashValue": "F5BFA3421EB84922290611FDE9CF288B322308EB"
+    }
+  ]
+}

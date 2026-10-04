@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "enabled": true,
+  "minimum_client_version": "0.1.0",
+  "message": "",
+  "server": {
+    "scheme": "http",
+    "host": "148.135.181.3",
+    "port": 80,
+    "health_path": "/health",
+    "paths": { "ps5": "/ps5/", "ps4": "/ps4/" }
+  },
+  "catalog": {
+    "url": "https://example.invalid/catalog.json",
+    "signature_url": "https://example.invalid/catalog.json.sig",
+    "cache_ttl_seconds": 900
+  }
+}

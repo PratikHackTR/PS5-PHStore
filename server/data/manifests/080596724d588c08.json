@@ -1,0 +1,31 @@
+{
+  "originalFileSize": 6846152704,
+  "packageDigest": "EE8725798EC1A47A70E275DD35773EF34F1398805F41A892374C70580446492F",
+  "numberOfSplitFiles": 4,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EwMTgyNi9QUFNBMDE4MjYuZXhmYXQucGFydDA=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "4F34ADF08835DF498E21626D6AD015276E3637BA"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EwMTgyNi9QUFNBMDE4MjYuZXhmYXQucGFydDE=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "4A4857D8C763D344EFE8BB8E14F0407F20E4DC17"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EwMTgyNi9QUFNBMDE4MjYuZXhmYXQucGFydDI=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "353021F0F805C40D81162CA2AD6558B630787E27"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EwMTgyNi9QUFNBMDE4MjYuZXhmYXQucGFydDM=",
+      "fileOffset": 5700000000,
+      "fileSize": 1146152704,
+      "hashValue": "F2E6E50511D29F3460888DD2DFD70BAAC69CD3C8"
+    }
+  ]
+}

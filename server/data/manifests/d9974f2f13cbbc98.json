@@ -1,0 +1,43 @@
+{
+  "originalFileSize": 9822404608,
+  "packageDigest": "90C7F4E977521DB7884ABB0124B133CA89B48227C98B61EFBE80FAE462423787",
+  "numberOfSplitFiles": 6,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzMzMzQ1ODU0MDYwNS9FUDQwMDgtUFBTQTAyMTEzXzAwLVdUQVNJRUUwMDAwMDAwMDBfQkFTRV8wLmZmcGZzYw==",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "0872539F729616E9FC88737705F79821FDF6ADC5"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzMzMzQ1ODU0MDYwNS9FUDQwMDgtUFBTQTAyMTEzXzAwLVdUQVNJRUUwMDAwMDAwMDBfQkFTRV8xLmZmcGZzYw==",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "B3ABB0426B32EA50EFFCF000D0C0F8A513CC9B39"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzMzMzQ1ODU0MDYwNS9FUDQwMDgtUFBTQTAyMTEzXzAwLVdUQVNJRUUwMDAwMDAwMDBfQkFTRV8yLmZmcGZzYw==",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "3B533DF25FE1682DF0C3CCC46CD6098278B70D8E"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzMzMzQ1ODU0MDYwNS9FUDQwMDgtUFBTQTAyMTEzXzAwLVdUQVNJRUUwMDAwMDAwMDBfQkFTRV8zLmZmcGZzYw==",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "98D8FE09A06E683962AAB79CC1ADB3E40B06EDEB"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzMzMzQ1ODU0MDYwNS9FUDQwMDgtUFBTQTAyMTEzXzAwLVdUQVNJRUUwMDAwMDAwMDBfQkFTRV80LmZmcGZzYw==",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "3F6D4AF653280357D66815D10426FE888A5FCB03"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzMzMzQ1ODU0MDYwNS9FUDQwMDgtUFBTQTAyMTEzXzAwLVdUQVNJRUUwMDAwMDAwMDBfQkFTRV81LmZmcGZzYw==",
+      "fileOffset": 9500000000,
+      "fileSize": 322404608,
+      "hashValue": "20FEB1DF2B3359AB0D8D6542CAE4CEB5FF95E536"
+    }
+  ]
+}

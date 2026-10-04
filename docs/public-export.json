@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-04",
+  "source_build_id": "phstore2-faststart-ph-ps5-20261004",
+  "source_elf_sha256": "64d5c4605a063a63f01213c31d627466218e787956873b2eef39b369b60112ee",
+  "source_project_unchanged": true,
+  "credential_redaction": [
+    {
+      "file": "config/examples/dev-catalog-gdrive.json",
+      "removed_urls": 2
+    },
+    {
+      "file": "config/examples/ph-live-snapshot.json",
+      "removed_urls": 2
+    },
+    {
+      "file": "config/generated/embedded-catalog.json",
+      "removed_urls": 2
+    },
+    {
+      "file": "server/data/catalog.json",
+      "removed_urls": 2
+    },
+    {
+      "file": "server/data/ph-catalog.json",
+      "removed_urls": 2
+    }
+  ],
+  "sdk_included": false,
+  "production_deployed": false,
+  "ps5_runtime_tested": false,
+  "public_elf_sha256": "b9b188c5f94549de8887770a5acd07305098e02875e2c56c02d1b2b3e41e5699",
+  "public_elf_bytes": 9574672,
+  "native_source_unchanged": true,
+  "frontend_unchanged": true,
+  "public_catalog_disabled_packages": 2,
+  "native_build_pass": true,
+  "native_dependency_source_build_pass": true,
+  "python_tests_pass": 15,
+  "frontend_test_suites_pass": 3
+}

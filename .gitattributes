@@ -1,0 +1,7 @@
+* -text
+# Preserve exact vendor/catalog/frontend bytes used by the distributed ELF.
+*.elf binary
+*.a binary
+*.png binary
+*.jpg binary
+*.webp binary

@@ -1,0 +1,2192 @@
+[
+  {
+    "titleId": "PPSA03753",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/TheRiftbreaker/PPSA03753_BASE_manifest.json",
+    "file": "manifests/bc01f182c33aff1d.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA31246",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/re9/PPSA31246_BASE_manifest.json",
+    "file": "manifests/11eba7d2068726c4.json",
+    "piece_count": 69
+  },
+  {
+    "titleId": "PPSA02530",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/338365827213/PPSA02530_BASE_manifest.json",
+    "file": "manifests/131ccdbd8125e01d.json",
+    "piece_count": 18
+  },
+  {
+    "titleId": "PPSA02530",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/pragmata_ffpfsc/PPSA02530_BASE_manifest.json",
+    "file": "manifests/eb12a84727797383.json",
+    "piece_count": 21
+  },
+  {
+    "titleId": "PPSA25286",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Crimson/PPSA25286_BASE_manifest.json",
+    "file": "manifests/3ab6aa7c7ec8945e.json",
+    "piece_count": 88
+  },
+  {
+    "titleId": "PPSA02306",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Spirit_of_The_North_Enhanced_Edition/PPSA02306_BASE_manifest.json",
+    "file": "manifests/6f65b03eff86322b.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA10887",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/229828298600/PPSA10887_BASE_manifest.json",
+    "file": "manifests/53a33b1b9a29ba6a.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA21733",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/328926033444/PPSA21733_BASE_manifest.json",
+    "file": "manifests/bdd829b65ab3329a.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA30528",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Red_Dead_Redemption/PPSA30528_BASE_manifest.json",
+    "file": "manifests/7c13439a869448e3.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA04109",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Aeterna_Noctis/PPSA04109_BASE_manifest.json",
+    "file": "manifests/96e8314d4adb56c2.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA08236",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Immortals_of_Aveum/PPSA08236_BASE_manifest.json",
+    "file": "manifests/2c79d94163ac836d.json",
+    "piece_count": 59
+  },
+  {
+    "titleId": "PPSA19728",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Star_Wars_Dark_F_Remaster/PPSA19728_BASE_manifest.json",
+    "file": "manifests/6fc0c307c081f28e.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA17330",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/RollerCoaster_Tycoon_A_Deluxe/PPSA17330_BASE_manifest.json",
+    "file": "manifests/6f28fe9ccfb85323.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA13871",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Neko_Rescue_Tale/PPSA13871_BASE_manifest.json",
+    "file": "manifests/1268af4c17b6afb6.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA20643",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Metal_Slug_Tactics/PPSA20643_BASE_manifest.json",
+    "file": "manifests/13bfceb2520bfcfc.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA19268",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Juicy_Realm/PPSA19268_BASE_manifest.json",
+    "file": "manifests/4acf526b4edb173e.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA21444",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/DOOM_DOOM_II/PPSA21444_BASE_manifest.json",
+    "file": "manifests/237d703fa00951c2.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA16709",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Asterix_%26_Obelix_Heroes/PPSA16709_BASE_manifest.json",
+    "error": "HTTPError",
+    "status": 400
+  },
+  {
+    "titleId": "PPSA26344",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/196999348524/PPSA26344_BASE_manifest.json",
+    "file": "manifests/b63cb65d973eadd1.json",
+    "piece_count": 67
+  },
+  {
+    "titleId": "PPSA10112",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/SILENT_HILL_The_Short_M/PPSA10112_BASE_manifest.json",
+    "file": "manifests/4672b7b0dce4e0de.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA05132",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Sifu/PPSA05132_BASE_manifest.json",
+    "error": "HTTPError",
+    "status": 404
+  },
+  {
+    "titleId": "PPSA28101",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/life_is_strange_reunion/PPSA28101_BASE_manifest.json",
+    "file": "manifests/cc56918553efccb0.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA07230",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/144908124873/PPSA07230_BASE_manifest.json",
+    "file": "manifests/9cb68658f35f5aaf.json",
+    "piece_count": 38
+  },
+  {
+    "titleId": "PPSA02213",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/The_King_of_Fighters_XV/PPSA02213_BASE_manifest.json",
+    "file": "manifests/edf59b6591e99ff2.json",
+    "piece_count": 65
+  },
+  {
+    "titleId": "PPSA21783",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/final_fantasy_TTIC/PPSA21783_BASE_manifest.json",
+    "file": "manifests/0488155a973ef724.json",
+    "piece_count": 10
+  },
+  {
+    "titleId": "PPSA01746",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/kenia/kenia_BASE_manifest.json",
+    "file": "manifests/7a6d30040330dcb5.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA13195",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/stella_blade/PPSA13195_BASE_manifest.json",
+    "file": "manifests/8b89367f1a43676f.json",
+    "piece_count": 51
+  },
+  {
+    "titleId": "PPSA13195",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA13195_BP/PPSA13195_BASE_manifest.json",
+    "file": "manifests/f195e34fa9eb9ede.json",
+    "piece_count": 51
+  },
+  {
+    "titleId": "PPSA21564",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/AstroBot/PPSA21564_BASE_manifest.json",
+    "file": "manifests/c8ec8aa096f00ec9.json",
+    "piece_count": 26
+  },
+  {
+    "titleId": "PPSA02807",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/Saints_Row/PPSA02807_BASE_manifest.json",
+    "file": "manifests/0407c80bf0fdbb15.json",
+    "piece_count": 43
+  },
+  {
+    "titleId": "PPSA01474",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/431412466869/PPSA01474_BASE_manifest.json",
+    "file": "manifests/adb511ce22ac65d3.json",
+    "piece_count": 23
+  },
+  {
+    "titleId": "PPSA20560",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/doom_dark_ages/PPSA20560_BASE_manifest.json",
+    "file": "manifests/baf3a8677598609e.json",
+    "piece_count": 56
+  },
+  {
+    "titleId": "PPSA03647",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/143687553632/PPSA03647_BASE_manifest.json",
+    "file": "manifests/ae6bff9aa88b55e4.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA20052",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA20052/PPSA20052_BASE_manifest.json",
+    "file": "manifests/b8e6807da8083e53.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA20052",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA20052_BP/PPSA20052_UPDATE_manifest.json",
+    "file": "manifests/f184341f372aaf45.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA19244",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA19244/PPSA19244_BASE_manifest.json",
+    "file": "manifests/bdf773dd1bbaf8bd.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA17858",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA17858/PPSA17858_BASE_manifest.json",
+    "file": "manifests/afaef26e0b6b299d.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA17858",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA17858_BP/PPSA17858_BASE_manifest.json",
+    "file": "manifests/18b6e1ed73689436.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA13579",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/430222747132/PPSA13579_BASE_manifest.json",
+    "file": "manifests/d353259fd2e1a510.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA04319",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA04319/PPSA04319_BASE_manifest.json",
+    "file": "manifests/0d4918b8ee1ff2f4.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA03659",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA03659/PPSA03659_BASE_manifest.json",
+    "file": "manifests/589d40fa5291d4e0.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA07570",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/412086078087/PPSA07570_BASE_manifest.json",
+    "file": "manifests/3783a999d7440a65.json",
+    "piece_count": 80
+  },
+  {
+    "titleId": "PPSA16716",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA16716/PPSA16716_BASE_manifest.json",
+    "file": "manifests/cfbfb9eea9afd56c.json",
+    "piece_count": 10
+  },
+  {
+    "titleId": "PPSA14050",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA14050/PPSA14050_BASE_manifest.json",
+    "file": "manifests/d53067da506bd709.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA11264",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA11264/PPSA11264_BASE_manifest.json",
+    "file": "manifests/b28394beff6db6c9.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA06465",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA06465/PPSA06465_BASE_manifest.json",
+    "file": "manifests/8fc878dc357c18b2.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA01903",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA01903/PPSA01903_BASE_manifest.json",
+    "file": "manifests/8a475e2a4af140b9.json",
+    "piece_count": 119
+  },
+  {
+    "titleId": "PPSA01507",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA01507/PPSA01507_BASE_manifest.json",
+    "file": "manifests/f765becacd9e9f50.json",
+    "piece_count": 33
+  },
+  {
+    "titleId": "PPSA02395",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA02395/PPSA02395_BASE_manifest.json",
+    "file": "manifests/cc7efadf8f31164c.json",
+    "piece_count": 44
+  },
+  {
+    "titleId": "PPSA07580",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA07580/PPSA07580_BASE_manifest.json",
+    "file": "manifests/5fdc4cfa26e395f7.json",
+    "piece_count": 46
+  },
+  {
+    "titleId": "PPSA07587",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/229172617157/PPSA07587_BASE_manifest.json",
+    "file": "manifests/b8bcfce002391be3.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA08511",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA08511/PPSA08511_BASE_manifest.json",
+    "file": "manifests/7bd35e7d9e214eb7.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA10796",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA10796/PPSA10796_BASE_manifest.json",
+    "file": "manifests/f6168b074da4ff46.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA19769",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA19769/PPSA19769_BASE_manifest.json",
+    "file": "manifests/6ac31ad855acbda1.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA05986",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA05986/PPSA05986_BASE_manifest.json",
+    "file": "manifests/bae0a4a1f0cf30fd.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA03775",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA03775/PPSA03775_BASE_manifest.json",
+    "file": "manifests/2b4555bf3a3733df.json",
+    "piece_count": 33
+  },
+  {
+    "titleId": "PPSA17232",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/490115068569/PPSA17232_BASE_manifest.json",
+    "file": "manifests/b9a7cb4483b4d2cf.json",
+    "piece_count": 30
+  },
+  {
+    "titleId": "PPSA24701",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/214058667641/PPSA24701_BASE_manifest.json",
+    "file": "manifests/5bf46f0655651b27.json",
+    "piece_count": 11
+  },
+  {
+    "titleId": "PPSA03839",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA03839/PPSA03839_BASE_manifest.json",
+    "file": "manifests/d723e70be65d9d31.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA08194",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA08194/PPSA08194_BASE_manifest.json",
+    "file": "manifests/7fa27d73ccadfa1e.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA02457",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA02457/PPSA02457_BASE_manifest.json",
+    "file": "manifests/df4ba12946d7f1fd.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA17949",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA17949/PPSA17949_BASE_manifest.json",
+    "file": "manifests/dd85a88214744258.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA21631",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA21631/PPSA21631_BASE_manifest.json",
+    "file": "manifests/bd6d568ec3df5c51.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA18191",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA18191/PPSA18191_BASE_manifest.json",
+    "file": "manifests/1d15ea896b52c811.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA14053",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA14053/PPSA14053_BASE_manifest.json",
+    "file": "manifests/0514061c536712d7.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA09804",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA09804/PPSA09804_BASE_manifest.json",
+    "file": "manifests/cb55a38d7804b4ce.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA06399",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA06399/PPSA06399_BASE_manifest.json",
+    "file": "manifests/94bcd702084b7f06.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA21732",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/953483206832/PPSA21732_BASE_manifest.json",
+    "file": "manifests/2710cb8bb71a202e.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA01826",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA01826/PPSA01826_BASE_manifest.json",
+    "file": "manifests/080596724d588c08.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA23396",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA23396/PPSA23396_BASE_manifest.json",
+    "file": "manifests/215d793ffe922625.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA02154",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/446746367376/PPSA02154_BASE_manifest.json",
+    "file": "manifests/f9b397ccad48834e.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA13526",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA13526/PPSA13526_BASE_manifest.json",
+    "file": "manifests/f49bf05a87efac49.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA19591",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA19591/PPSA19591_BASE_manifest.json",
+    "file": "manifests/b84ee8c731ba3c76.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA16901",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA16901/PPSA16901_BASE_manifest.json",
+    "file": "manifests/0d3dd0b25cdaf025.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA10264",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA10264/PPSA10264_BASE_manifest.json",
+    "file": "manifests/2fdff0d193a2a924.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA06695",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA06695/PPSA06695_BASE_manifest.json",
+    "file": "manifests/856402ac973b1011.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA23000",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/130283238499/PPSA23000_BASE_manifest.json",
+    "file": "manifests/25eb0d4ecb6a548d.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA04906",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA04906/PPSA04906_BASE_manifest.json",
+    "file": "manifests/e37ca9265b1ae8a6.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA02211",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA02211/PPSA02211_BASE_manifest.json",
+    "file": "manifests/5e414715f594470b.json",
+    "piece_count": 19
+  },
+  {
+    "titleId": "PPSA13794",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA13794/PPSA13794_BASE_manifest.json",
+    "file": "manifests/3a856a6451defcf5.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA01886",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA01886/PPSA01886_BASE_manifest.json",
+    "file": "manifests/bbca2d9103449e70.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA02384",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA02384/PPSA02384_BASE_manifest.json",
+    "file": "manifests/a4ae110bd64b37fd.json",
+    "piece_count": 29
+  },
+  {
+    "titleId": "PPSA05324",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA05324/PPSA05324_BASE_manifest.json",
+    "file": "manifests/8c7eddb07b6f3e6d.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA07393",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA07393/PPSA07393_BASE_manifest.json",
+    "file": "manifests/c368a2f62d9457a6.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA02385",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA02385/PPSA02385_BASE_manifest.json",
+    "file": "manifests/e1d80e4e09214843.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA01695",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/801864398576/PPSA01695_BASE_manifest.json",
+    "file": "manifests/bd093051b4fa00dd.json",
+    "piece_count": 38
+  },
+  {
+    "titleId": "PPSA05213",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA05213/PPSA05213_BASE_manifest.json",
+    "file": "manifests/8dd8ddea659da4c7.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA03865",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA03865/PPSA03865_BASE_manifest.json",
+    "file": "manifests/c504547b2b59065d.json",
+    "piece_count": 23
+  },
+  {
+    "titleId": "PPSA03984",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA03984/PPSA03984_BASE_manifest.json",
+    "file": "manifests/9b80945a187eea9b.json",
+    "piece_count": 120
+  },
+  {
+    "titleId": "PPSA01500",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA01500/PPSA01500_BASE_manifest.json",
+    "file": "manifests/7467697d024ccb4a.json",
+    "piece_count": 64
+  },
+  {
+    "titleId": "PPSA16388",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA16388/PPSA16388_BASE_manifest.json",
+    "file": "manifests/046d8cc73209bc4b.json",
+    "piece_count": 65
+  },
+  {
+    "titleId": "PPSA03831",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0177-PPSA03831_00-SONICRANGERS0000/UP0177-PPSA03831_00-SONICRANGERS0000_BASE_manifest.json",
+    "file": "manifests/35d58e35d3ddd772.json",
+    "piece_count": 23
+  },
+  {
+    "titleId": "PPSA02604",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP3165-PPSA02604_00-0024231166387186/UP3165-PPSA02604_00-0024231166387186_BASE_manifest.json",
+    "file": "manifests/b0a6b00d36159de8.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA02527",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP4293-PPSA02527_00-KITARIAFABLES000/UP4293-PPSA02527_00-KITARIAFABLES000_BASE_manifest.json",
+    "file": "manifests/4e8a3c105cdeb814.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA08576",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA08576/PPSA08576_BASE_manifest.json",
+    "file": "manifests/12cf677465d8e982.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA06774",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0700-PPSA06774_00-ARMOREDCORE60000/UP0700-PPSA06774_00-ARMOREDCORE60000_BASE_manifest.json",
+    "file": "manifests/2ae2d4922e11c6d3.json",
+    "piece_count": 56
+  },
+  {
+    "titleId": "PPSA25258",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/896927140569/PPSA25258_BASE_manifest.json",
+    "file": "manifests/432ff9086aa3b00b.json",
+    "piece_count": 18
+  },
+  {
+    "titleId": "PPSA07257",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/PPSA07257/PPSA07257_BASE_manifest.json",
+    "file": "manifests/73832e283700ef40.json",
+    "piece_count": 46
+  },
+  {
+    "titleId": "PPSA05424",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP6856-PPSA05424_00-WWZTHEGAME2021US/UP6856-PPSA05424_00-WWZTHEGAME2021US_BASE_manifest.json",
+    "file": "manifests/1c0a4c7b60dd3f1f.json",
+    "piece_count": 22
+  },
+  {
+    "titleId": "PPSA08709",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP0101-PPSA08709_00-MAINGAME00000000/EP0101-PPSA08709_00-MAINGAME00000000_BASE_manifest.json",
+    "file": "manifests/fa7792760fecb785.json",
+    "piece_count": 52
+  },
+  {
+    "titleId": "PPSA26576",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP6665-PPSA26576_00-TDF2500000000000/EP6665-PPSA26576_00-TDF2500000000000_BASE_manifest.json",
+    "file": "manifests/f68b2e5160874c97.json",
+    "piece_count": 28
+  },
+  {
+    "titleId": "PPSA05721",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP5223-PPSA05721_00-WYTCHWOODPS5SIEA/UP5223-PPSA05721_00-WYTCHWOODPS5SIEA_BASE_manifest.json",
+    "file": "manifests/0c483fe699280f21.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA24864",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP2907-PPSA24864_00-0657719756865376/EP2907-PPSA24864_00-0657719756865376_BASE_manifest.json",
+    "file": "manifests/be4f1881db10fa44.json",
+    "piece_count": 17
+  },
+  {
+    "titleId": "PPSA04181",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP2011-PPSA04181_00-0922527761026563/UP2011-PPSA04181_00-0922527761026563_BASE_manifest.json",
+    "file": "manifests/0f2cfe9551cc2d88.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA03157",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP3111-PPSA03157_00-JANDUSOFT0000001/EP3111-PPSA03157_00-JANDUSOFT0000001_BASE_manifest.json",
+    "file": "manifests/dc173dac4bcdb6db.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA04170",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP4363-PPSA04170_00-EVILGENIUS200000/UP4363-PPSA04170_00-EVILGENIUS200000_BASE_manifest.json",
+    "file": "manifests/222c4d660b17a38c.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA04220",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0700-PPSA04220_00-JASBRMAINGAME000/UP0700-PPSA04220_00-JASBRMAINGAME000_BASE_manifest.json",
+    "file": "manifests/6d6d6940034264b2.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA02721",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0031-PPSA02721_00-NEPREVERSEGAME01/UP0031-PPSA02721_00-NEPREVERSEGAME01_BASE_manifest.json",
+    "file": "manifests/9d9e2fcb7918259f.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA01968",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/237959528721/PPSA01968_BASE_manifest.json",
+    "file": "manifests/668b990382d88fec.json",
+    "piece_count": 36
+  },
+  {
+    "titleId": "PPSA01374",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0001-PPSA01374_00-MADGAMESCEA00000/UP0001-PPSA01374_00-MADGAMESCEA00000_BASE_manifest.json",
+    "file": "manifests/c3915b635beeeda1.json",
+    "piece_count": 19
+  },
+  {
+    "titleId": "PPSA08560",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0006-PPSA08560_00-SPLITGAME0000000/UP0006-PPSA08560_00-SPLITGAME0000000_BASE_manifest.json",
+    "file": "manifests/cac8a585a7c8ef1c.json",
+    "piece_count": 86
+  },
+  {
+    "titleId": "PPSA06888",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0177-PPSA06888_00-SONICORION000000/UP0177-PPSA06888_00-SONICORION000000_BASE_manifest.json",
+    "file": "manifests/430cd6aa67a699c0.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA14363",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0101-PPSA14363_00-METALGEARSOLID01/UP0101-PPSA14363_00-METALGEARSOLID01_BASE_manifest.json",
+    "file": "manifests/6bbe57f0fd32f314.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA02484",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP9000-PPSA02484_00-NIOHCEPS50000000/UP9000-PPSA02484_00-NIOHCEPS50000000_BASE_manifest.json",
+    "file": "manifests/076b230798ecba47.json",
+    "piece_count": 43
+  },
+  {
+    "titleId": "PPSA14404",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0101-PPSA14404_00-METALGEARSOLID03/UP0101-PPSA14404_00-METALGEARSOLID03_BASE_manifest.json",
+    "file": "manifests/bfc0e33dbfe407ae.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA10249",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP5180-PPSA10249_00-VIEWFINDER0005US/UP5180-PPSA10249_00-VIEWFINDER0005US_BASE_manifest.json",
+    "file": "manifests/465bbdd2f37b8fdd.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA20800",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0177-PPSA20800_00-METAPHORNA000001/UP0177-PPSA20800_00-METAPHORNA000001_BASE_manifest.json",
+    "file": "manifests/0c71ee8263b30add.json",
+    "piece_count": 41
+  },
+  {
+    "titleId": "PPSA14396",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0101-PPSA14396_00-METALGEARSOLID02/UP0101-PPSA14396_00-METALGEARSOLID02_BASE_manifest.json",
+    "file": "manifests/461be68537838c0b.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA13427",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP9000-PPSA13427_00-HORIZONREMASTER1/EP9000-PPSA13427_00-HORIZONREMASTER1_BASE_manifest.json",
+    "file": "manifests/6eed3d2e0d8185c9.json",
+    "piece_count": 77
+  },
+  {
+    "titleId": "PPSA07382",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP7581-PPSA07382_00-FLINTLOCK00PS5US/UP7581-PPSA07382_00-FLINTLOCK00PS5US_BASE_manifest.json",
+    "file": "manifests/b64dc9b68023170e.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA05265",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP2470-PPSA05265_00-AMBSIEA000000000/UP2470-PPSA05265_00-AMBSIEA000000000_BASE_manifest.json",
+    "file": "manifests/19cfce54ae52f490.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA01668",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0177-PPSA01668_00-FLASH20000000005/UP0177-PPSA01668_00-FLASH20000000005_BASE_manifest.json",
+    "file": "manifests/09e6dae03858863d.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA27616",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP5519-PPSA27616_00-0983640666583317/EP5519-PPSA27616_00-0983640666583317_BASE_manifest.json",
+    "file": "manifests/fd512110a1a242f2.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA03603",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP1001-PPSA03603_00-CODA000000000000/EP1001-PPSA03603_00-CODA000000000000_BASE_manifest.json",
+    "file": "manifests/800e77f3cda16469.json",
+    "piece_count": 45
+  },
+  {
+    "titleId": "PPSA20723",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP1063-PPSA20723_00-REYNATISPS5EU000/EP1063-PPSA20723_00-REYNATISPS5EU000_BASE_manifest.json",
+    "file": "manifests/3403e588cd5f6959.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA04451",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP4133-PPSA04451_00-SPACEMARINESII00/EP4133-PPSA04451_00-SPACEMARINESII00_BASE_manifest.json",
+    "file": "manifests/36d6c78c304ddad5.json",
+    "piece_count": 54
+  },
+  {
+    "titleId": "PPSA06215",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/JP0108-PPSA06215_00-OUTWARDDEFJP0000/JP0108-PPSA06215_00-OUTWARDDEFJP0000_BASE_manifest.json",
+    "file": "manifests/26b5220cab37ecd9.json",
+    "piece_count": 16
+  },
+  {
+    "titleId": "PPSA03744",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP0177-PPSA03744_00-SOULHACKERS20000/EP0177-PPSA03744_00-SOULHACKERS20000_BASE_manifest.json",
+    "file": "manifests/2378672905334707.json",
+    "piece_count": 22
+  },
+  {
+    "titleId": "PPSA09845",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/641313373214/PPSA09845_BASE_manifest.json",
+    "file": "manifests/775fd29ba950d7ed.json",
+    "piece_count": 17
+  },
+  {
+    "titleId": "PPSA06927",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP2514-PPSA06927_00-AOSREALMSOFRUIN0/UP2514-PPSA06927_00-AOSREALMSOFRUIN0_BASE_manifest.json",
+    "file": "manifests/59e272be77d82162.json",
+    "piece_count": 13
+  },
+  {
+    "titleId": "PPSA02740",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP0177-PPSA02740_00-JUDGMENTRYUGAENG/EP0177-PPSA02740_00-JUDGMENTRYUGAENG_BASE_manifest.json",
+    "file": "manifests/b6258d6e17a38a98.json",
+    "piece_count": 19
+  },
+  {
+    "titleId": "PPSA07411",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/205955381199/PPSA07411_BASE_manifest.json",
+    "file": "manifests/16b5f413299e6794.json",
+    "piece_count": 42
+  },
+  {
+    "titleId": "PPSA08330",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP9000-PPSA08330_00-GOWRAGNAROK00000/EP9000-PPSA08330_00-GOWRAGNAROK00000_BASE_manifest.json",
+    "file": "manifests/0756133fe93dd2e4.json",
+    "piece_count": 105
+  },
+  {
+    "titleId": "PPSA23806",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP4389-PPSA23806_00-DARKSIDERS2PS5GP/EP4389-PPSA23806_00-DARKSIDERS2PS5GP_BASE_manifest.json",
+    "file": "manifests/be01814ff14cc257.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA17841",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0700-PPSA17841_00-UNKNOWN90000GAME/UP0700-PPSA17841_00-UNKNOWN90000GAME_BASE_manifest.json",
+    "file": "manifests/96940f5e9a62bc7a.json",
+    "piece_count": 34
+  },
+  {
+    "titleId": "PPSA02572",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP1464-PPSA02572_00-ALANWAKE20000000/EP1464-PPSA02572_00-ALANWAKE20000000_BASE_manifest.json",
+    "file": "manifests/7c6b93c45f724c2a.json",
+    "piece_count": 78
+  },
+  {
+    "titleId": "PPSA23226",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/806942847842/PPSA23226_BASE_manifest.json",
+    "file": "manifests/4201c78f7b0bd17f.json",
+    "piece_count": 62
+  },
+  {
+    "titleId": "PPSA09149",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/533789909008/PPSA09149_BASE_manifest.json",
+    "file": "manifests/f89a840c6803c736.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA02210",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP2660-PPSA02210_00-KEYWEFULLGAME001/UP2660-PPSA02210_00-KEYWEFULLGAME001_BASE_manifest.json",
+    "file": "manifests/fba99ca17fefb0ef.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA29866",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP6893-PPSA29866_00-0481747241856795/UP6893-PPSA29866_00-0481747241856795_BASE_manifest.json",
+    "file": "manifests/99606115cc7c6773.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA21382",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP6890-PPSA21382_00-0410268520525028/EP6890-PPSA21382_00-0410268520525028_BASE_manifest.json",
+    "file": "manifests/bfb77ef021b87617.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA02801",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP4295-PPSA02801_00-JOEANDMACPS500EU/EP4295-PPSA02801_00-JOEANDMACPS500EU_BASE_manifest.json",
+    "file": "manifests/682bed87d9d9ba26.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA15671",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP1562-PPSA15671_00-0169394001813237/UP1562-PPSA15671_00-0169394001813237_BASE_manifest.json",
+    "file": "manifests/baf628c523c91966.json",
+    "piece_count": 39
+  },
+  {
+    "titleId": "PPSA03026",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/411915516353/PPSA03026_BASE_manifest.json",
+    "file": "manifests/fc422ab948570eef.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA08601",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP0182-PPSA08601_00-ATARICELEBRATION/UP0182-PPSA08601_00-ATARICELEBRATION_BASE_manifest.json",
+    "file": "manifests/f24e5984b58b6476.json",
+    "piece_count": 10
+  },
+  {
+    "titleId": "PPSA02716",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP4008-PPSA02716_00-RIMS000000000000/UP4008-PPSA02716_00-RIMS000000000000_BASE_manifest.json",
+    "file": "manifests/d8d3ce1d750a5983.json",
+    "piece_count": 10
+  },
+  {
+    "titleId": "PPSA02262",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/713442473024/PPSA02262_BASE_manifest.json",
+    "file": "manifests/9cf206516a51b189.json",
+    "piece_count": 30
+  },
+  {
+    "titleId": "PPSA16265",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/JP0177-PPSA16265_00-LIKEADRGNGAIDEN0/JP0177-PPSA16265_00-LIKEADRGNGAIDEN0_BASE_manifest.json",
+    "file": "manifests/43c8017e11930543.json",
+    "piece_count": 39
+  },
+  {
+    "titleId": "PPSA16019",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP2955-PPSA16019_00-DDGBASEGAME00000/EP2955-PPSA16019_00-DDGBASEGAME00000_BASE_manifest.json",
+    "file": "manifests/951c81b532df3d38.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA04243",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP4638-PPSA04243_00-9719614638697680/EP4638-PPSA04243_00-9719614638697680_BASE_manifest.json",
+    "file": "manifests/3cf7b2917e3cf3e3.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA05518",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP3824-PPSA05518_00-GIGANTORACER0003/UP3824-PPSA05518_00-GIGANTORACER0003_BASE_manifest.json",
+    "file": "manifests/13a2d0cbe51a9a83.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA09706",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/JP0005-PPSA09706_00-0000000000000000/JP0005-PPSA09706_00-0000000000000000_BASE_manifest.json",
+    "file": "manifests/034a040da891dabe.json",
+    "piece_count": 15
+  },
+  {
+    "titleId": "PPSA01530",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/JP0177-PPSA01530_00-TENPEXTENPEX0000/JP0177-PPSA01530_00-TENPEXTENPEX0000_BASE_manifest.json",
+    "file": "manifests/e052d0213dd67e60.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA28609",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP5519-PPSA28609_00-XXXXXXXXXXXXXXXX/EP5519-PPSA28609_00-XXXXXXXXXXXXXXXX_BASE_manifest.json",
+    "file": "manifests/0815a3cfccd08cae.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA13553",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP3446-PPSA13553_00-0298234468325416/EP3446-PPSA13553_00-0298234468325416_BASE_manifest.json",
+    "file": "manifests/68812fc295e99f90.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA15350",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP4064-PPSA15350_00-TREPANG200000000/UP4064-PPSA15350_00-TREPANG200000000_BASE_manifest.json",
+    "file": "manifests/b355d2fc42cb371d.json",
+    "piece_count": 16
+  },
+  {
+    "titleId": "PPSA10050",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP8016-PPSA10050_00-SOSIN00GAMEUSA01/UP8016-PPSA10050_00-SOSIN00GAMEUSA01_BASE_manifest.json",
+    "file": "manifests/c6e7c093d7e73a2c.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA15493",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP4363-PPSA15493_00-ATOMFALL00000000/UP4363-PPSA15493_00-ATOMFALL00000000_BASE_manifest.json",
+    "file": "manifests/cb43a575ab2649a3.json",
+    "piece_count": 20
+  },
+  {
+    "titleId": "PPSA21564",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP9000-PPSA21564_00-0000000000000000/UP9000-PPSA21564_00-0000000000000000_BASE_manifest.json",
+    "file": "manifests/1db91dd2c052a18a.json",
+    "piece_count": 87
+  },
+  {
+    "titleId": "PPSA01492",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/UP1001-PPSA01492_00-00000000DAFFODIL/UP1001-PPSA01492_00-00000000DAFFODIL_BASE_manifest.json",
+    "file": "manifests/0081ecfa1dec412c.json",
+    "piece_count": 39
+  },
+  {
+    "titleId": "PPSA28329",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP6665-PPSA28329_00-RRCUB00000000000/EP6665-PPSA28329_00-RRCUB00000000000_BASE_manifest.json",
+    "file": "manifests/d0054c83374ac8f1.json",
+    "piece_count": 40
+  },
+  {
+    "titleId": "PPSA26873",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/JP0102-PPSA26873_00-FULLGAME00000001/JP0102-PPSA26873_00-FULLGAME00000001_BASE_manifest.json",
+    "file": "manifests/8fe83abc8e4f77ec.json",
+    "piece_count": 42
+  },
+  {
+    "titleId": "PPSA31327",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/JP0177-PPSA31327_00-MAINGAME00000000/JP0177-PPSA31327_00-MAINGAME00000000_BASE_manifest.json",
+    "file": "manifests/81c52d2e937ee10b.json",
+    "piece_count": 30
+  },
+  {
+    "titleId": "PPSA01443",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP0102-PPSA01443_00-DMC5000000000001/EP0102-PPSA01443_00-DMC5000000000001_BASE_manifest.json",
+    "file": "manifests/152583fc74470ed3.json",
+    "piece_count": 36
+  },
+  {
+    "titleId": "PPSA30490",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/EP4295-PPSA30490_00-AOBABYLONPS500EU/EP4295-PPSA30490_00-AOBABYLONPS500EU_BASE_manifest.json",
+    "file": "manifests/51fceffb480599a2.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA02015",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/987308643353/PPSA02015_BASE_manifest.json",
+    "file": "manifests/1f29bfab5301074f.json",
+    "piece_count": 49
+  },
+  {
+    "titleId": "PPSA17337",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/554657522944/PPSA17337_BASE_manifest.json",
+    "file": "manifests/878a04e5577ce940.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA18528",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/817510252808/PPSA18528_BASE_manifest.json",
+    "file": "manifests/e312a01cbda883e8.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA29629",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/757130179476/PPSA29629_BASE_manifest.json",
+    "file": "manifests/ed97bf2b3085a3d8.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA04288",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/616203723906/PPSA04288_BASE_manifest.json",
+    "file": "manifests/1ff82b88009ab172.json",
+    "piece_count": 13
+  },
+  {
+    "titleId": "PPSA17163",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/493092859951/PPSA17163_BASE_manifest.json",
+    "file": "manifests/d3ad5976da85ef70.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA10829",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/974586655351/PPSA10829_BASE_manifest.json",
+    "file": "manifests/6e33490b5322d1b1.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA22520",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/563630798946/PPSA22520_BASE_manifest.json",
+    "file": "manifests/8f0421a24d4eaa7e.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA01716",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/442318750930/PPSA01716_BASE_manifest.json",
+    "file": "manifests/e220d3b78b7b4989.json",
+    "piece_count": 18
+  },
+  {
+    "titleId": "PPSA23012",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/721027377532/PPSA23012_BASE_manifest.json",
+    "file": "manifests/1e22297203b903e4.json",
+    "piece_count": 66
+  },
+  {
+    "titleId": "PPSA17221",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/751528215645/PPSA17221_BASE_manifest.json",
+    "file": "manifests/6dac4b64d36ee739.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA15645",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/238292880181/PPSA15645_BASE_manifest.json",
+    "file": "manifests/a54b3282c577e286.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA21734",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/801541506552/PPSA21734_BASE_manifest.json",
+    "file": "manifests/1dba14697ef2543e.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA07632",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/796268812663/PPSA07632_BASE_manifest.json",
+    "file": "manifests/8cf939da27edea75.json",
+    "piece_count": 47
+  },
+  {
+    "titleId": "PPSA07064",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/403280890870/PPSA07064_BASE_manifest.json",
+    "file": "manifests/3e0da173f5b7bf72.json",
+    "piece_count": 20
+  },
+  {
+    "titleId": "PPSA32557",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/560378970912/PPSA32557_BASE_manifest.json",
+    "file": "manifests/1fcd82e51fd34c40.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA29343",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/499724246187/PPSA29343_BASE_manifest.json",
+    "file": "manifests/10974d5dc8758092.json",
+    "piece_count": 16
+  },
+  {
+    "titleId": "PPSA05027",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/368416853540/PPSA05027_BASE_manifest.json",
+    "file": "manifests/13473f391c63d30b.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA17630",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/306130106915/PPSA17630_BASE_manifest.json",
+    "file": "manifests/828efacef2e3f5bf.json",
+    "piece_count": 33
+  },
+  {
+    "titleId": "PPSA24179",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/786576825685/PPSA24179_BASE_manifest.json",
+    "file": "manifests/da419701cf1d7f70.json",
+    "piece_count": 15
+  },
+  {
+    "titleId": "PPSA24203",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/510513390125/PPSA24203_BASE_manifest.json",
+    "file": "manifests/fa2779bef0f686d5.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA05595",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/113959941689/PPSA05595_BASE_manifest.json",
+    "file": "manifests/ca456a4c06c406c7.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA15246",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/507421485705/PPSA15246_BASE_manifest.json",
+    "file": "manifests/b3089b9552c7430b.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA08587",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/134783459268/PPSA08587_BASE_manifest.json",
+    "file": "manifests/0227d2624464082f.json",
+    "piece_count": 15
+  },
+  {
+    "titleId": "PPSA17942",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/446897391671/PPSA17942_BASE_manifest.json",
+    "file": "manifests/d4942dc66d140061.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA32236",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/211321252899/PPSA32236_BASE_manifest.json",
+    "file": "manifests/aa60194f72b1398b.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA01285",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/844546116470/PPSA01285_BASE_manifest.json",
+    "file": "manifests/1ec9441db63dbadf.json",
+    "piece_count": 40
+  },
+  {
+    "titleId": "PPSA24662",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/452899023719/PPSA24662_BASE_manifest.json",
+    "file": "manifests/908a48741a83b0d5.json",
+    "piece_count": 43
+  },
+  {
+    "titleId": "PPSA08102",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/279129588892/PPSA08102_BASE_manifest.json",
+    "file": "manifests/a7acacf50d262794.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA09850",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/448005377067/PPSA09850_BASE_manifest.json",
+    "file": "manifests/61406aafc0aea0ce.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA28180",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/959801949309/PPSA28180_BASE_manifest.json",
+    "file": "manifests/1696793f83c4af88.json",
+    "piece_count": 19
+  },
+  {
+    "titleId": "PPSA02113",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/333458540605/PPSA02113_BASE_manifest.json",
+    "file": "manifests/d9974f2f13cbbc98.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA22327",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/827205949478/PPSA22327_BASE_manifest.json",
+    "file": "manifests/314cb564ac6173cd.json",
+    "piece_count": 93
+  },
+  {
+    "titleId": "PPSA12771",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/723915003600/PPSA12771_BASE_manifest.json",
+    "file": "manifests/f88829b884d7b906.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA03524",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/751353856415/PPSA03524_BASE_manifest.json",
+    "file": "manifests/b7fb0cf8125addb0.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA23372",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/725137524767/PPSA23372_BASE_manifest.json",
+    "file": "manifests/a30c30901031f5b7.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA07809",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/433462941824/PPSA07809_BASE_manifest.json",
+    "file": "manifests/c35bcc4d14bfa17c.json",
+    "piece_count": 13
+  },
+  {
+    "titleId": "PPSA03952",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/226528334516/PPSA03952_BASE_manifest.json",
+    "file": "manifests/eee4df09630b1574.json",
+    "piece_count": 13
+  },
+  {
+    "titleId": "PPSA07274",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/994129253696/PPSA07274_BASE_manifest.json",
+    "file": "manifests/23fe9bf430fcafa4.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA05521",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/414764536825/PPSA05521_BASE_manifest.json",
+    "file": "manifests/a1c7ac427509c29d.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA03530",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/409283476710/PPSA03530_BASE_manifest.json",
+    "file": "manifests/32e142008af4a101.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA04404",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/947584532664/PPSA04404_BASE_manifest.json",
+    "file": "manifests/5ea5bed8e7070e37.json",
+    "piece_count": 18
+  },
+  {
+    "titleId": "PPSA15304",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/733892169527/PPSA15304_BASE_manifest.json",
+    "file": "manifests/13baced1cdf9be00.json",
+    "piece_count": 53
+  },
+  {
+    "titleId": "PPSA10528",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/623313217559/PPSA10528_BASE_manifest.json",
+    "file": "manifests/677cb7c9d5f55e43.json",
+    "piece_count": 16
+  },
+  {
+    "titleId": "PPSA18089",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/289775014643/PPSA18089_BASE_manifest.json",
+    "file": "manifests/3a7b4a854c0bfa23.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA09518",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/451951231292/PPSA09518_BASE_manifest.json",
+    "file": "manifests/fa8c3466d4de3f0c.json",
+    "piece_count": 10
+  },
+  {
+    "titleId": "PPSA01687",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/562569039202/PPSA01687_BASE_manifest.json",
+    "file": "manifests/91950ec23321fbdd.json",
+    "piece_count": 48
+  },
+  {
+    "titleId": "PPSA04930",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/232323365972/PPSA04930_BASE_manifest.json",
+    "file": "manifests/30aae8f898124d17.json",
+    "piece_count": 21
+  },
+  {
+    "titleId": "PPSA01556",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/449759301211/PPSA01556_BASE_manifest.json",
+    "file": "manifests/5f9c484446d37a37.json",
+    "piece_count": 24
+  },
+  {
+    "titleId": "PPSA19534",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/625757862922/PPSA19534_BASE_manifest.json",
+    "file": "manifests/f3148971cf032fe8.json",
+    "piece_count": 63
+  },
+  {
+    "titleId": "PPSA05389",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/568583800117/PPSA05389_BASE_manifest.json",
+    "file": "manifests/987465748efb3fd3.json",
+    "piece_count": 47
+  },
+  {
+    "titleId": "PPSA17525",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/166031636825/PPSA17525_BASE_manifest.json",
+    "file": "manifests/83d9716c872f9995.json",
+    "piece_count": 38
+  },
+  {
+    "titleId": "PPSA27360",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/244285407455/PPSA27360_BASE_manifest.json",
+    "file": "manifests/e9fa53960c9c8fd1.json",
+    "piece_count": 43
+  },
+  {
+    "titleId": "PPSA18154",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/340584410960/PPSA18154_BASE_manifest.json",
+    "file": "manifests/fc787a3571bde271.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA02787",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/300456712383/PPSA02787_BASE_manifest.json",
+    "file": "manifests/2231238c6c43f672.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA17168",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/916619474840/PPSA17168_BASE_manifest.json",
+    "file": "manifests/eaefb59cd9b32c49.json",
+    "piece_count": 10
+  },
+  {
+    "titleId": "PPSA07191",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/516497578334/PPSA07191_BASE_manifest.json",
+    "file": "manifests/b8f2f9f5286ca1ad.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA22946",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/821987452011/PPSA22946_BASE_manifest.json",
+    "file": "manifests/da86f6df1d53a17a.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA02846",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/135175011017/PPSA02846_BASE_manifest.json",
+    "file": "manifests/4f634211846668a0.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA14708",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/481835065257/PPSA14708_BASE_manifest.json",
+    "file": "manifests/9fabd8a009dea62e.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA04263",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/397357153138/PPSA04263_BASE_manifest.json",
+    "file": "manifests/138111283540c4d4.json",
+    "piece_count": 55
+  },
+  {
+    "titleId": "PPSA30568",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/141260217833/PPSA30568_BASE_manifest.json",
+    "file": "manifests/cd91b8282f370778.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA07837",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/488905061346/PPSA07837_BASE_manifest.json",
+    "file": "manifests/5794ff40a41a9d69.json",
+    "piece_count": 40
+  },
+  {
+    "titleId": "PPSA03351",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/259486467474/PPSA03351_BASE_manifest.json",
+    "file": "manifests/be7041b4727ac49d.json",
+    "piece_count": 32
+  },
+  {
+    "titleId": "PPSA04995",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/216577430005/PPSA04995_BASE_manifest.json",
+    "file": "manifests/02db40e1b867f5e4.json",
+    "piece_count": 18
+  },
+  {
+    "titleId": "PPSA02745",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/880831464409/PPSA02745_BASE_manifest.json",
+    "file": "manifests/158a1f6131bec54d.json",
+    "piece_count": 22
+  },
+  {
+    "titleId": "PPSA32239",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/893171289542/PPSA32239_BASE_manifest.json",
+    "file": "manifests/256434938e868a04.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA14002",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/195079681679/PPSA14002_BASE_manifest.json",
+    "file": "manifests/6fd1db578fc92d18.json",
+    "piece_count": 88
+  },
+  {
+    "titleId": "PPSA22826",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/182963976354/PPSA22826_BASE_manifest.json",
+    "file": "manifests/b136049fb8c139b6.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA02868",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/822306504705/PPSA02868_BASE_manifest.json",
+    "file": "manifests/baec888a4dc3f8dc.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA15319",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/561113450614/PPSA15319_BASE_manifest.json",
+    "file": "manifests/a1e214c0568e52a7.json",
+    "piece_count": 11
+  },
+  {
+    "titleId": "PPSA15716",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/942787752031/PPSA15716_BASE_manifest.json",
+    "file": "manifests/da02af593924f110.json",
+    "piece_count": 15
+  },
+  {
+    "titleId": "PPSA14632",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/430727004269/PPSA14632_BASE_manifest.json",
+    "file": "manifests/db553b4ccbd7842c.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA16384",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/151833302397/PPSA16384_BASE_manifest.json",
+    "file": "manifests/975825a7a798b983.json",
+    "piece_count": 21
+  },
+  {
+    "titleId": "PPSA08084",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/843789848220/PPSA08084_BASE_manifest.json",
+    "file": "manifests/83ffcd3379a8b0a1.json",
+    "piece_count": 32
+  },
+  {
+    "titleId": "PPSA02632",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/722695881251/PPSA02632_BASE_manifest.json",
+    "file": "manifests/87ed0ab3e35e430f.json",
+    "piece_count": 31
+  },
+  {
+    "titleId": "PPSA03977",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/743606024935/PPSA03977_BASE_manifest.json",
+    "file": "manifests/3e4c2bed241a24d3.json",
+    "piece_count": 47
+  },
+  {
+    "titleId": "PPSA02225",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/558004420855/PPSA02225_BASE_manifest.json",
+    "file": "manifests/8817d022ea41f0a9.json",
+    "piece_count": 39
+  },
+  {
+    "titleId": "PPSA10595",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/647873075408/PPSA10595_BASE_manifest.json",
+    "file": "manifests/5f01bd0545f87b1b.json",
+    "piece_count": 58
+  },
+  {
+    "titleId": "PPSA02100",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/389017035686/PPSA02100_BASE_manifest.json",
+    "file": "manifests/66001b873dc937c3.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA02110",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/118035654191/PPSA02110_BASE_manifest.json",
+    "file": "manifests/f2aa5deb90f41729.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA10696",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/872069667490/PPSA10696_BASE_manifest.json",
+    "file": "manifests/15cf00870dc07bf2.json",
+    "piece_count": 37
+  },
+  {
+    "titleId": "PPSA13197",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/427808053333/PPSA13197_BASE_manifest.json",
+    "file": "manifests/30befc11dbac32e2.json",
+    "piece_count": 24
+  },
+  {
+    "titleId": "PPSA04339",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/816641200245/PPSA04339_BASE_manifest.json",
+    "file": "manifests/0f9a371ebfc8c99f.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA02433",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/588491553224/PPSA02433_BASE_manifest.json",
+    "file": "manifests/b29d07b03ada39d6.json",
+    "piece_count": 11
+  },
+  {
+    "titleId": "PPSA03527",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/820778059229/PPSA03527_BASE_manifest.json",
+    "file": "manifests/8a59a1900712ab4a.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA06406",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/247734145720/PPSA06406_BASE_manifest.json",
+    "file": "manifests/0ec1435c16cba5c6.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA17313",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/549109973192/PPSA17313_BASE_manifest.json",
+    "file": "manifests/ba2257e8c97f1468.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA28855",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/310259635576/PPSA28855_BASE_manifest.json",
+    "file": "manifests/262058765664dd23.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA01649",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/392784947942/PPSA01649_BASE_manifest.json",
+    "file": "manifests/e1ca26edd6348ada.json",
+    "piece_count": 85
+  },
+  {
+    "titleId": "PPSA26893",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/840089672592/PPSA26893_BASE_manifest.json",
+    "file": "manifests/8ccae7a23a06681d.json",
+    "piece_count": 6
+  },
+  {
+    "titleId": "PPSA01532",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/505363387324/PPSA01532_BASE_manifest.json",
+    "file": "manifests/8f86eb048f5991ba.json",
+    "piece_count": 93
+  },
+  {
+    "titleId": "PPSA22102",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/330341687020/PPSA22102_BASE_manifest.json",
+    "file": "manifests/d23d2a4ca5239cae.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA13899",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/790719600421/PPSA13899_BASE_manifest.json",
+    "file": "manifests/9979e384bcd1cf95.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA09252",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/243738157659/PPSA09252_BASE_manifest.json",
+    "file": "manifests/4057d29df1a7a31c.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA04987",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/523486694054/PPSA04987_BASE_manifest.json",
+    "file": "manifests/6e5c34ed09cdaf96.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA16509",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/374987694846/PPSA16509_BASE_manifest.json",
+    "file": "manifests/3102012d4c461748.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA01467",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/429762719290/PPSA01467_BASE_manifest.json",
+    "file": "manifests/a4cb8a7dac52901f.json",
+    "piece_count": 40
+  },
+  {
+    "titleId": "PPSA26786",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/458443674373/PPSA26786_BASE_manifest.json",
+    "file": "manifests/ac0bfed5adf4898e.json",
+    "piece_count": 84
+  },
+  {
+    "titleId": "PPSA04159",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/630268125922/PPSA04159_BASE_manifest.json",
+    "file": "manifests/bb9aec4f5778b7ca.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA30279",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/769239350186/PPSA30279_BASE_manifest.json",
+    "file": "manifests/7980d91eb7f622e7.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA01528",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/758708440104/PPSA01528_BASE_manifest.json",
+    "file": "manifests/6a4abac30da7096b.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA01748",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/965203511896/PPSA01748_BASE_manifest.json",
+    "file": "manifests/297d989df823f738.json",
+    "piece_count": 24
+  },
+  {
+    "titleId": "PPSA01411",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/493464997208/PPSA01411_BASE_manifest.json",
+    "file": "manifests/3c2fc1ad913d70d4.json",
+    "piece_count": 51
+  },
+  {
+    "titleId": "PPSA28420",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/563220691457/PPSA28420_BASE_manifest.json",
+    "file": "manifests/7e05af17cd248ab4.json",
+    "piece_count": 214
+  },
+  {
+    "titleId": "PPSA21159",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/394945462826/PPSA21159_BASE_manifest.json",
+    "file": "manifests/f2112c1bbc7ae21e.json",
+    "piece_count": 22
+  },
+  {
+    "titleId": "PPSA03638",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/396655026852/PPSA03638_BASE_manifest.json",
+    "file": "manifests/4ff5028835211932.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA01628",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/262069247782/PPSA01628_BASE_manifest.json",
+    "file": "manifests/05bf525438bf8144.json",
+    "piece_count": 157
+  },
+  {
+    "titleId": "PPSA17905",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/440433275166/PPSA17905_BASE_manifest.json",
+    "file": "manifests/72508908b6667490.json",
+    "piece_count": 63
+  },
+  {
+    "titleId": "PPSA26127",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/918190846819/PPSA26127_BASE_manifest.json",
+    "file": "manifests/9bdaf865a727da74.json",
+    "piece_count": 88
+  },
+  {
+    "titleId": "PPSA20931",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/278217477652/PPSA20931_BASE_manifest.json",
+    "file": "manifests/ef5e9846d1dc2b31.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA01325",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/360207296909/PPSA01325_BASE_manifest.json",
+    "file": "manifests/00f00aac375fa48f.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA17952",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/481952294089/PPSA17952_BASE_manifest.json",
+    "file": "manifests/78ac0d3988b515db.json",
+    "piece_count": 20
+  },
+  {
+    "titleId": "PPSA09232",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/676665240860/PPSA09232_BASE_manifest.json",
+    "file": "manifests/fbbd070a3c4a61b2.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA09809",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/561258908871/PPSA09809_BASE_manifest.json",
+    "file": "manifests/a5e09fe411611238.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA26354",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/932875837195/PPSA26354_BASE_manifest.json",
+    "file": "manifests/ecc20b4fbb34e831.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA26785",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/629044043344/PPSA26785_BASE_manifest.json",
+    "file": "manifests/ab4a513ed4ada4a8.json",
+    "piece_count": 115
+  },
+  {
+    "titleId": "PPSA05666",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/371178720670/PPSA05666_BASE_manifest.json",
+    "file": "manifests/f68983edda71ee90.json",
+    "piece_count": 27
+  },
+  {
+    "titleId": "PPSA13715",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/503091389721/PPSA13715_BASE_manifest.json",
+    "file": "manifests/d9a9f4e22e6adcc9.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA03639",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/464904577445/PPSA03639_BASE_manifest.json",
+    "file": "manifests/8b1755585de5c82e.json",
+    "piece_count": 20
+  },
+  {
+    "titleId": "PPSA34299",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/460677069026/PPSA34299_BASE_manifest.json",
+    "file": "manifests/2f26eb7f05b1a346.json",
+    "piece_count": 76
+  },
+  {
+    "titleId": "PPSA03973",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/700626830818/PPSA03973_BASE_manifest.json",
+    "file": "manifests/0f79f1a930596d91.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA05398",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/111713645665/PPSA05398_BASE_manifest.json",
+    "file": "manifests/c0f705bc9c4ec2cd.json",
+    "piece_count": 56
+  },
+  {
+    "titleId": "PPSA02489",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/348361265061/PPSA02489_BASE_manifest.json",
+    "file": "manifests/d8be31b1ccaf545f.json",
+    "piece_count": 32
+  },
+  {
+    "titleId": "PPSA01913",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/907262498335/PPSA01913_BASE_manifest.json",
+    "file": "manifests/be2bba9a6550d99b.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA05916",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/385811897679/PPSA05916_BASE_manifest.json",
+    "file": "manifests/7b56888ab0e2add6.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA05975",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/732803840379/PPSA05975_BASE_manifest.json",
+    "file": "manifests/cca80fbdba8143fd.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA29141",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/742011132816/PPSA29141_BASE_manifest.json",
+    "file": "manifests/0d71e8065b51c30e.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA15210",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/861708462750/PPSA15210_BASE_manifest.json",
+    "file": "manifests/d2f741aac1bfeac9.json",
+    "piece_count": 36
+  },
+  {
+    "titleId": "PPSA24096",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/962367545234/PPSA24096_BASE_manifest.json",
+    "file": "manifests/9008768ba82dee77.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA03847",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/547574357673/PPSA03847_BASE_manifest.json",
+    "file": "manifests/47053663154c48eb.json",
+    "piece_count": 11
+  },
+  {
+    "titleId": "PPSA17732",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/567876624385/PPSA17732_BASE_manifest.json",
+    "file": "manifests/880e2fa1d9a6823c.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA03131",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/489088328440/PPSA03131_BASE_manifest.json",
+    "file": "manifests/94736c40b7ce492a.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA08427",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/584943397457/PPSA08427_BASE_manifest.json",
+    "file": "manifests/3ca5c567e540d849.json",
+    "piece_count": 19
+  },
+  {
+    "titleId": "PPSA04057",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/516671226735/PPSA04057_BASE_manifest.json",
+    "file": "manifests/f7085d3ebbfd57ac.json",
+    "piece_count": 11
+  },
+  {
+    "titleId": "PPSA02182",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/801900216502/PPSA02182_BASE_manifest.json",
+    "file": "manifests/f38d846c6a003089.json",
+    "piece_count": 56
+  },
+  {
+    "titleId": "PPSA06981",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/808558040442/PPSA06981_BASE_manifest.json",
+    "file": "manifests/3ee01291ae8c50b3.json",
+    "piece_count": 24
+  },
+  {
+    "titleId": "PPSA04264",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/447353092200/PPSA04264_BASE_manifest.json",
+    "file": "manifests/07b387c715bd7f36.json",
+    "piece_count": 54
+  },
+  {
+    "titleId": "PPSA15508",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/474860916018/PPSA15508_BASE_manifest.json",
+    "file": "manifests/210ad74376d78d11.json",
+    "piece_count": 59
+  },
+  {
+    "titleId": "PPSA13790",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/327748411479/PPSA13790_BASE_manifest.json",
+    "file": "manifests/bf262ab2999e84c0.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA26525",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/457282041364/PPSA26525_BASE_manifest.json",
+    "file": "manifests/88678a54417426e0.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA01619",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/466870400475/PPSA01619_BASE_manifest.json",
+    "file": "manifests/1979ac9e5c7cc6db.json",
+    "piece_count": 46
+  },
+  {
+    "titleId": "PPSA28068",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/192674110495/PPSA28068_BASE_manifest.json",
+    "file": "manifests/bf6779d3ca7ff2e1.json",
+    "piece_count": 7
+  },
+  {
+    "titleId": "PPSA10240",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/440908365904/PPSA10240_BASE_manifest.json",
+    "file": "manifests/ea21f0af14a94fcf.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA19936",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/336284417764/PPSA19936_BASE_manifest.json",
+    "file": "manifests/79376cc8ebeae61a.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA09904",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/225953351363/PPSA09904_BASE_manifest.json",
+    "file": "manifests/9f2444725c91cb67.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA07117",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/184824589338/PPSA07117_BASE_manifest.json",
+    "file": "manifests/13bc25abe59b3560.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA15211",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/566308686825/PPSA15211_BASE_manifest.json",
+    "file": "manifests/71a19cd2f8d6ef5a.json",
+    "piece_count": 16
+  },
+  {
+    "titleId": "PPSA01685",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/904661509850/PPSA01685_BASE_manifest.json",
+    "file": "manifests/4bd254e1e70ad65a.json",
+    "piece_count": 51
+  },
+  {
+    "titleId": "PPSA11142",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/685036489396/PPSA11142_BASE_manifest.json",
+    "file": "manifests/0a776e96b2f85d78.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA02494",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/786117756982/PPSA02494_BASE_manifest.json",
+    "file": "manifests/7abbc7f9b338e0c1.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA13927",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/569936977532/PPSA13927_BASE_manifest.json",
+    "file": "manifests/7ded7100fe6652b1.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA06433",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/390250602727/PPSA06433_BASE_manifest.json",
+    "file": "manifests/123160ce87bb2bac.json",
+    "piece_count": 33
+  },
+  {
+    "titleId": "PPSA01342",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/266674254105/PPSA01342_BASE_manifest.json",
+    "file": "manifests/3e772ef8b84d1da9.json",
+    "piece_count": 29
+  },
+  {
+    "titleId": "PPSA04477",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/659788461811/PPSA04477_BASE_manifest.json",
+    "file": "manifests/e51ad6ede10006d3.json",
+    "piece_count": 24
+  },
+  {
+    "titleId": "PPSA19406",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/243132843993/PPSA19406_BASE_manifest.json",
+    "file": "manifests/a01bc3990262c71b.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA27676",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/414723748459/PPSA27676_BASE_manifest.json",
+    "file": "manifests/2a832c2a4516cadd.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA32785",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/422646722647/PPSA32785_BASE_manifest.json",
+    "file": "manifests/685e29dd0afc98ba.json",
+    "piece_count": 47
+  },
+  {
+    "titleId": "PPSA23732",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/522945606304/PPSA23732_BASE_manifest.json",
+    "file": "manifests/4a6003d1461ca20d.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA20397",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/410605912302/PPSA20397_BASE_manifest.json",
+    "file": "manifests/db4660e36b92ebc7.json",
+    "piece_count": 91
+  },
+  {
+    "titleId": "PPSA03589",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/674918738461/PPSA03589_BASE_manifest.json",
+    "file": "manifests/0f3fd1bfd5d2088e.json",
+    "piece_count": 21
+  },
+  {
+    "titleId": "PPSA28795",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/983954255160/PPSA28795_BASE_manifest.json",
+    "file": "manifests/4b16186ac93518c7.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA13934",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/664840773353/PPSA13934_BASE_manifest.json",
+    "file": "manifests/dc1dc645e23094a5.json",
+    "piece_count": 1
+  },
+  {
+    "titleId": "PPSA19446",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/991114866569/PPSA19446_BASE_manifest.json",
+    "file": "manifests/103f6318890578da.json",
+    "piece_count": 2
+  },
+  {
+    "titleId": "PPSA03190",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/324826166019/PPSA03190_BASE_manifest.json",
+    "file": "manifests/16ab7b079802e599.json",
+    "piece_count": 11
+  },
+  {
+    "titleId": "PPSA10737",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/323982261722/PPSA10737_BASE_manifest.json",
+    "file": "manifests/8d32d92efeb8528b.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA21914",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/810914594086/PPSA21914_BASE_manifest.json",
+    "file": "manifests/0daafa9f416506c5.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA04618",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/803700850473/PPSA04618_BASE_manifest.json",
+    "file": "manifests/7df5c2094fd950fa.json",
+    "piece_count": 28
+  },
+  {
+    "titleId": "PPSA06509",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/222114283582/PPSA06509_BASE_manifest.json",
+    "file": "manifests/fb5cc28b08bce7a1.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA03845",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/587082749564/PPSA03845_BASE_manifest.json",
+    "file": "manifests/23d793f31ad8481d.json",
+    "piece_count": 18
+  },
+  {
+    "titleId": "PPSA25646",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/212993061085/PPSA25646_BASE_manifest.json",
+    "file": "manifests/c63225c37e423a85.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA05143",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/337471901591/PPSA05143_BASE_manifest.json",
+    "file": "manifests/0cc2464a9efe6d30.json",
+    "piece_count": 9
+  },
+  {
+    "titleId": "PPSA21840",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/466758665403/PPSA21840_BASE_manifest.json",
+    "file": "manifests/8bf15f8a9d8188df.json",
+    "piece_count": 22
+  },
+  {
+    "titleId": "PPSA02633",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/741112157332/PPSA02633_BASE_manifest.json",
+    "file": "manifests/f8ab8857552be8d6.json",
+    "piece_count": 57
+  },
+  {
+    "titleId": "PPSA07631",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/566491265253/PPSA07631_BASE_manifest.json",
+    "file": "manifests/f20a6971a58af8e4.json",
+    "piece_count": 43
+  },
+  {
+    "titleId": "PPSA05214",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/497052017284/PPSA05214_BASE_manifest.json",
+    "file": "manifests/eaedeff0878832a2.json",
+    "piece_count": 4
+  },
+  {
+    "titleId": "PPSA19943",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/917360295901/PPSA19943_BASE_manifest.json",
+    "file": "manifests/648ca986dbf68c33.json",
+    "piece_count": 3
+  },
+  {
+    "titleId": "PPSA03130",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/183331923785/PPSA03130_BASE_manifest.json",
+    "file": "manifests/bee2210b789bb290.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA03952",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/635464423203/PPSA03952_BASE_manifest.json",
+    "file": "manifests/900b11aa13281563.json",
+    "piece_count": 12
+  },
+  {
+    "titleId": "PPSA04610",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/120092111187/PPSA04610_BASE_manifest.json",
+    "file": "manifests/a885b0a7aa00d40f.json",
+    "piece_count": 46
+  },
+  {
+    "titleId": "PPSA21567",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/379051990777/PPSA21567_BASE_manifest.json",
+    "file": "manifests/159ea0e647baff72.json",
+    "piece_count": 21
+  },
+  {
+    "titleId": "PPSA03098",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/838164484876/PPSA03098_BASE_manifest.json",
+    "file": "manifests/518257e5870bae43.json",
+    "piece_count": 36
+  },
+  {
+    "titleId": "PPSA08331",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/600024345623/PPSA08331_BASE_manifest.json",
+    "file": "manifests/907023270b50d2c8.json",
+    "piece_count": 58
+  },
+  {
+    "titleId": "PPSA03016",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/144532559902/PPSA03016_BASE_manifest.json",
+    "file": "manifests/d6e105dc3c76189b.json",
+    "piece_count": 61
+  },
+  {
+    "titleId": "PPSA10662",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/392720154445/PPSA10662_BASE_manifest.json",
+    "file": "manifests/6f18da1adb50d167.json",
+    "piece_count": 48
+  },
+  {
+    "titleId": "PPSA05754",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/402545078149/PPSA05754_BASE_manifest.json",
+    "file": "manifests/f3f028dae74f4755.json",
+    "piece_count": 14
+  },
+  {
+    "titleId": "PPSA30803",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/943773294446/PPSA30803_BASE_manifest.json",
+    "file": "manifests/04e2ed95fea0ee55.json",
+    "piece_count": 41
+  },
+  {
+    "titleId": "PPSA20515",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/190238002032/PPSA20515_BASE_manifest.json",
+    "file": "manifests/0e190bff7e896777.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA27366",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/957785519075/PPSA27366_BASE_manifest.json",
+    "file": "manifests/715e6d9730e10084.json",
+    "piece_count": 8
+  },
+  {
+    "titleId": "PPSA03396",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/449944689319/PPSA03396_BASE_manifest.json",
+    "file": "manifests/4d1012968d9969c3.json",
+    "piece_count": 41
+  },
+  {
+    "titleId": "PPSA04539",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/548256353025/PPSA04539_BASE_manifest.json",
+    "file": "manifests/0e3cf130316592a5.json",
+    "piece_count": 54
+  },
+  {
+    "titleId": "PPSA11386",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/744807846553/PPSA11386_BASE_manifest.json",
+    "file": "manifests/2654e3be60d89ec4.json",
+    "piece_count": 26
+  },
+  {
+    "titleId": "PPSA18605",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/220050612390/PPSA18605_BASE_manifest.json",
+    "file": "manifests/c76df456feff0730.json",
+    "piece_count": 16
+  },
+  {
+    "titleId": "PPSA28997",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/254422434199/PPSA28997_BASE_manifest.json",
+    "file": "manifests/e4ff222a3dc1ec33.json",
+    "piece_count": 5
+  },
+  {
+    "titleId": "PPSA10665",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/668042493514/PPSA10665_BASE_manifest.json",
+    "file": "manifests/8dc572567b26be55.json",
+    "piece_count": 61
+  },
+  {
+    "titleId": "PPSA03671",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/158327227378/PPSA03671_BASE_manifest.json",
+    "file": "manifests/2941394bda9850ae.json",
+    "piece_count": 54
+  },
+  {
+    "titleId": "PPSA03974",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/887457145388/PPSA03974_BASE_manifest.json",
+    "file": "manifests/4fa752162dcf6765.json",
+    "piece_count": 72
+  },
+  {
+    "titleId": "PPSA07783",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/314615749598/PPSA07783_BASE_manifest.json",
+    "file": "manifests/410b80c42c416a98.json",
+    "piece_count": 80
+  },
+  {
+    "titleId": "PPSA28183",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/869962390194/PPSA28183_BASE_manifest.json",
+    "file": "manifests/848fea70eccfa79b.json",
+    "piece_count": 34
+  },
+  {
+    "titleId": "PPSA20396",
+    "manifest_url": "https://api.spectrumlibrary.online/manifest/373557593872/PPSA20396_BASE_manifest.json",
+    "file": "manifests/0a04417dfeb9c096.json",
+    "piece_count": 72
+  }
+]

@@ -1,0 +1,8 @@
+compile-entropy.c=PASS
+compile-crypto_control.c=PASS
+wolfssl-configure=PASS
+wolfssl-build=PASS
+curl-configure=PASS
+curl-build=PASS
+BUILD_ONLY=PASS; supplied libraries unchanged
+PS5_RUNTIME=NOT_TESTED

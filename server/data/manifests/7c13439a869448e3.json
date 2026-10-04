@@ -1,0 +1,43 @@
+{
+  "originalFileSize": 10385096704,
+  "packageDigest": "B2017B2B5CF1AA4219C4E306E7397F351A3BB1E45FAC9A343FAAF3D4DDA183CF",
+  "numberOfSplitFiles": 6,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1JlZF9EZWFkX1JlZGVtcHRpb24vUFBTQTMwNTI4LmV4ZmF0LnBhcnQw",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "3A685DF0F89DC42D4B825FA57E8B0F6FAF311D14"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1JlZF9EZWFkX1JlZGVtcHRpb24vUFBTQTMwNTI4LmV4ZmF0LnBhcnQx",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "6663E141129DA858C448E04EBCCC3E8537068F97"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1JlZF9EZWFkX1JlZGVtcHRpb24vUFBTQTMwNTI4LmV4ZmF0LnBhcnQy",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "CAB94264AC1A637C728191F3B136294AE4E67623"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1JlZF9EZWFkX1JlZGVtcHRpb24vUFBTQTMwNTI4LmV4ZmF0LnBhcnQz",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "D4C9655D17FC21D2CAD2CE79A05DE78647029B93"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1JlZF9EZWFkX1JlZGVtcHRpb24vUFBTQTMwNTI4LmV4ZmF0LnBhcnQ0",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "092E8C4B3E767988F5D337B6E4A409EC6F82AB9D"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1JlZF9EZWFkX1JlZGVtcHRpb24vUFBTQTMwNTI4LmV4ZmF0LnBhcnQ1",
+      "fileOffset": 9500000000,
+      "fileSize": 885096704,
+      "hashValue": "632781C949AD6541C0473C20492430A6F20DDEA6"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent_release_sha256": "b061423f2bc5359495191594ef19067ead84246a9eaadb1ef9fd5a21814efd1e",
+  "spectrum_helper_original_sha256": "d8f947386a794c6fdc1348058e8aba1f3c2b5abd47b3de8eba88bc2f53c2c19b",
+  "spectrum_helper_adapted_sha256": "761f53716bd752f5f6efba56bf81dc00c0474b8775b71829c52c93ae44c94534",
+  "hardware_tested": false,
+  "source": "local copied working tree; parent kept unchanged"
+}

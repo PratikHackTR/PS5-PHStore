@@ -1,0 +1,22 @@
+EMBEDDED_SNAPSHOT games=1542 manifests=305
+Embedded Release frontend; icon 1254x1254 -> 1024x1024 (1240274 bytes)
+{
+  "native_worker_calls": [
+    "install_service_start",
+    "install_service_status",
+    "install_service_close"
+  ],
+  "host_mock_read_absent": true,
+  "helper_native_calls": true,
+  "embedded_helper_matches": true,
+  "stack_frames_bytes": {
+    "stream_installer_worker": 11128,
+    "serve_connection": 36072
+  }
+}
+
+FullName                                                                                  Length
+--------                                                                                  ------
+REPO\build\phstr.elf          9574672
+REPO\build\install-helper.elf  116480
+

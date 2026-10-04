@@ -1,0 +1,3 @@
+-r requirements-build.txt
+cryptography>=42
+requests>=2.32

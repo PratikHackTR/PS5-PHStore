@@ -1,0 +1,22 @@
+test_alternatives_merge (test_embedded_catalog.EmbeddedTests.test_alternatives_merge) ... ok
+test_embedded_manifest_integrity (test_embedded_catalog.EmbeddedTests.test_embedded_manifest_integrity) ... ok
+test_collision (test_gdrive_metadata.Metadata.test_collision) ... ok
+test_invalid_private_missing (test_gdrive_metadata.Metadata.test_invalid_private_missing) ... ok
+test_unique (test_gdrive_metadata.Metadata.test_unique) ... ok
+test_all_saved_manifests_validate (test_phstore2_gateway.GatewayTests.test_all_saved_manifests_validate) ... ok
+test_direct_size_head_fallback_and_cache (test_phstore2_gateway.GatewayTests.test_direct_size_head_fallback_and_cache) ... ok
+test_exact_upstream_content_range_required (test_phstore2_gateway.GatewayTests.test_exact_upstream_content_range_required) ... ok
+test_http_range_crosses_pieces_and_zero_gap (test_phstore2_gateway.GatewayTests.test_http_range_crosses_pieces_and_zero_gap) ... ok
+test_manifest_overlap_hash_bounds_and_gaps (test_phstore2_gateway.GatewayTests.test_manifest_overlap_hash_bounds_and_gaps) ... ok
+test_resolved_disk_manifests_keep_hashes_and_offsets (test_phstore2_gateway.GatewayTests.test_resolved_disk_manifests_keep_hashes_and_offsets) ... ok
+test_source_partition_preserves_every_ph_package (test_phstore2_gateway.GatewayTests.test_source_partition_preserves_every_ph_package) ... ok
+test_url_wrapper_and_host_boundary (test_phstore2_gateway.GatewayTests.test_url_wrapper_and_host_boundary) ... ok
+signature valid
+test_cli_sign_verify (test_sign.SignatureTests.test_cli_sign_verify) ... signature invalid
+ok
+test_exact_bytes_verify_and_tampering_fails (test_sign.SignatureTests.test_exact_bytes_verify_and_tampering_fails) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 2.144s
+
+OK

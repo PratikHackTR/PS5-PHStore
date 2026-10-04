@@ -1,0 +1,73 @@
+{
+  "originalFileSize": 19504889856,
+  "packageDigest": "2394AAC94559DB8761152D42A1D22A79A07D1A97F1991E303F80B89C9357497B",
+  "numberOfSplitFiles": 11,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfMC5mZnBmc2M=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "F01012506648AE5D0B3FC5880575F8958B4EC0B2"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfMS5mZnBmc2M=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "CC378C3696C9DEEA700813FE4A84ECFA0DDDFAF0"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfMi5mZnBmc2M=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "44EAFB54050A142A83C62CFFC805BFF93DA45DA1"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfMy5mZnBmc2M=",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "FC7D28B26828EED8CB4FF72FD93DD2E994D75C30"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfNC5mZnBmc2M=",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "7B753AD4CD020A007DADA984C473B7CF1BCB6671"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfNS5mZnBmc2M=",
+      "fileOffset": 9500000000,
+      "fileSize": 1900000000,
+      "hashValue": "0508E77EEE9429BE795D5AD4BCEDAA079A8B7174"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfNi5mZnBmc2M=",
+      "fileOffset": 11400000000,
+      "fileSize": 1900000000,
+      "hashValue": "C7829D5DD35CE1044D0F1B945959A4A50CE7D1A5"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfNy5mZnBmc2M=",
+      "fileOffset": 13300000000,
+      "fileSize": 1900000000,
+      "hashValue": "1E24AE6D4212BDB6FAD17CF2EFA7B173029B7C60"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfOC5mZnBmc2M=",
+      "fileOffset": 15200000000,
+      "fileSize": 1900000000,
+      "hashValue": "5AA4CFEE1F842E1B0F6761DDAA428E26251CE3CA"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfOS5mZnBmc2M=",
+      "fileOffset": 17100000000,
+      "fileSize": 1900000000,
+      "hashValue": "93399156833B9F2C3E3813D1F0F97FF999F6605A"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81MTY2NzEyMjY3MzUvVVAzMDk1LVBQU0EwNDA1N18wMC1TV0FZWkVHQU1FMDAwMDAwX0JBU0VfMTAuZmZwZnNj",
+      "fileOffset": 19000000000,
+      "fileSize": 504889856,
+      "hashValue": "5CBB8E0322785AE763D373E4ADECB74DE89D0681"
+    }
+  ]
+}

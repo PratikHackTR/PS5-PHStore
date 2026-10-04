@@ -1,0 +1,97 @@
+{
+  "originalFileSize": 27363770368,
+  "packageDigest": "5F4C3BB78E646EFEB6473A9637244BEA731942E1BCB28A168CE26557179203D2",
+  "numberOfSplitFiles": 15,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMC5mZnBmc2M=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "62E19907CB8D506039DC01A3C28116B75439018E"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMS5mZnBmc2M=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "FC4A4BB1E12B8485A3440817B8D58D25466F005D"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMi5mZnBmc2M=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "54F4D9E7315FFC5AA6BB27E71D78A3AE3BF6960C"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMy5mZnBmc2M=",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "6C967DD3A12F36D7E3ACA33B66FE47FF83E9BF18"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfNC5mZnBmc2M=",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "31BDD039763EF44C1E4D860FEC95393AE8AE6767"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfNS5mZnBmc2M=",
+      "fileOffset": 9500000000,
+      "fileSize": 1900000000,
+      "hashValue": "BE3171B836BE1B6FF06997DCCE791AA5EF376251"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfNi5mZnBmc2M=",
+      "fileOffset": 11400000000,
+      "fileSize": 1900000000,
+      "hashValue": "408E699BB8586936E8CF37D1374B4C03E52626C1"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfNy5mZnBmc2M=",
+      "fileOffset": 13300000000,
+      "fileSize": 1900000000,
+      "hashValue": "6BF76DC4F5A96FC94C77542FAA41BF1F35BE5DA8"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfOC5mZnBmc2M=",
+      "fileOffset": 15200000000,
+      "fileSize": 1900000000,
+      "hashValue": "2EB2D134AFA3AADB7B22D06567976E69041FDB77"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfOS5mZnBmc2M=",
+      "fileOffset": 17100000000,
+      "fileSize": 1900000000,
+      "hashValue": "C688F092AB53AE6814AE501D687E73317582C83D"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMTAuZmZwZnNj",
+      "fileOffset": 19000000000,
+      "fileSize": 1900000000,
+      "hashValue": "9EC0498D8A6DDD1D3D3A8E35305A8C900B8C4581"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMTEuZmZwZnNj",
+      "fileOffset": 20900000000,
+      "fileSize": 1900000000,
+      "hashValue": "364AEBC3DFE6B4A9CB477972C9CACF163348C9C5"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMTIuZmZwZnNj",
+      "fileOffset": 22800000000,
+      "fileSize": 1900000000,
+      "hashValue": "EC71B652BDD2366EFA6358BCE7D7C90864D2B0CE"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMTMuZmZwZnNj",
+      "fileOffset": 24700000000,
+      "fileSize": 1900000000,
+      "hashValue": "B653728953D8EF8E18AD2AF22660A6DDD557C6F5"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC83ODY1NzY4MjU2ODUvVVAzMDk1LVBQU0EyNDE3OV8wMC1QUkVEQVRPUkhVTlRHQU1FX0JBU0VfMTQuZmZwZnNj",
+      "fileOffset": 26600000000,
+      "fileSize": 763770368,
+      "hashValue": "8CA37DD800F45C34B36458B7BEF38054A067F7AA"
+    }
+  ]
+}

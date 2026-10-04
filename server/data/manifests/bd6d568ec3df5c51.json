@@ -1,0 +1,43 @@
+{
+  "originalFileSize": 9645850624,
+  "packageDigest": "8DA69070367AC6FEB471C7174A9570E08A2BAA2B69BA2FD15A34ACC54A770455",
+  "numberOfSplitFiles": 6,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EyMTYzMS9QUFNBMjE2MzEuZXhmYXQucGFydDA=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "D8B28A8218630719536505B2177BB312FFDCF110"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EyMTYzMS9QUFNBMjE2MzEuZXhmYXQucGFydDE=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "ECA503B7479C2990E92570D591F7B6A87FC4EB66"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EyMTYzMS9QUFNBMjE2MzEuZXhmYXQucGFydDI=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "9A3181519B03B03F9AEC729E7A44AE5A67908EC3"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EyMTYzMS9QUFNBMjE2MzEuZXhmYXQucGFydDM=",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "8D62A810AC95FEAAFC4787C050DBAE7EDC35AAF9"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EyMTYzMS9QUFNBMjE2MzEuZXhmYXQucGFydDQ=",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "813178530E8F59AB2F9580DFAFCFAB46A3F88CBF"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1BQU0EyMTYzMS9QUFNBMjE2MzEuZXhmYXQucGFydDU=",
+      "fileOffset": 9500000000,
+      "fileSize": 145850624,
+      "hashValue": "4AFFAC5DE9F96615A2887C7F4950B6CD2E1ED189"
+    }
+  ]
+}

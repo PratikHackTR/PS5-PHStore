@@ -1,0 +1,43 @@
+{
+  "originalFileSize": 4138729472,
+  "packageDigest": "D1397496C43075A9E09B20B31253BD624974DED3A09DA3F5B53717F4D0B4A32A",
+  "numberOfSplitFiles": 6,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1NwaXJpdF9vZl9UaGVfTm9ydGhfRW5oYW5jZWRfRWRpdGlvbi9QUFNBMDIzMDYuZXhmYXQucGFydDA=",
+      "fileOffset": 0,
+      "fileSize": 700000000,
+      "hashValue": "1254013D62998D8A99E1FDA5559167F59AC9AD6E"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1NwaXJpdF9vZl9UaGVfTm9ydGhfRW5oYW5jZWRfRWRpdGlvbi9QUFNBMDIzMDYuZXhmYXQucGFydDE=",
+      "fileOffset": 700000000,
+      "fileSize": 700000000,
+      "hashValue": "A13A08226CF581BB63922ADD43F971DA75081074"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1NwaXJpdF9vZl9UaGVfTm9ydGhfRW5oYW5jZWRfRWRpdGlvbi9QUFNBMDIzMDYuZXhmYXQucGFydDI=",
+      "fileOffset": 1400000000,
+      "fileSize": 700000000,
+      "hashValue": "B474062B1440566B491C4D36F2BA20EF2482EFAC"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1NwaXJpdF9vZl9UaGVfTm9ydGhfRW5oYW5jZWRfRWRpdGlvbi9QUFNBMDIzMDYuZXhmYXQucGFydDM=",
+      "fileOffset": 2100000000,
+      "fileSize": 700000000,
+      "hashValue": "F9380701E02A4F20D8EBA431556B64C48B570BFB"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1NwaXJpdF9vZl9UaGVfTm9ydGhfRW5oYW5jZWRfRWRpdGlvbi9QUFNBMDIzMDYuZXhmYXQucGFydDQ=",
+      "fileOffset": 2800000000,
+      "fileSize": 700000000,
+      "hashValue": "DED81D2746F6BE7C088C6D7D6343D09100ED77CA"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkL1NwaXJpdF9vZl9UaGVfTm9ydGhfRW5oYW5jZWRfRWRpdGlvbi9QUFNBMDIzMDYuZXhmYXQucGFydDU=",
+      "fileOffset": 3500000000,
+      "fileSize": 638729472,
+      "hashValue": "D63F552C77F0A673EAEE0A823420C9FAF5FCBDA7"
+    }
+  ]
+}

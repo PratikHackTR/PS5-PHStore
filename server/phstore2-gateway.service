@@ -1,0 +1,21 @@
+[Unit]
+Description=PHStore2 external dual catalogue and HTTPS range gateway
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=phstore2
+Group=phstore2
+WorkingDirectory=/opt/phstore2
+ExecStart=/usr/bin/python3 /opt/phstore2/server/gateway.py --bind 127.0.0.1 --port 8762
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/phstore2/server/data
+
+[Install]
+WantedBy=multi-user.target

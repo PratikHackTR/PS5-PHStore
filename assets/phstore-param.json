@@ -1,0 +1,11 @@
+{
+  "titleId": "PHST00002",
+  "applicationCategoryType": 65536,
+  "deeplinkUri": "http://127.0.0.1:1903/",
+  "localizedParameters": {
+    "defaultLanguage": "tr-TR",
+    "tr-TR": {
+      "titleName": "PH Store 2"
+    }
+  }
+}

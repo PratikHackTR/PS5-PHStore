@@ -1,0 +1,13 @@
+{
+  "originalFileSize": 745537536,
+  "packageDigest": "CAF03ABD18E3CDF69B0AA1AA24E443419B4D1E8D62A61F1F3499425C3CDB3F1F",
+  "numberOfSplitFiles": 1,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5L3Brc3RnL3JlbGVhc2VzL2Rvd25sb2FkLzk3NDU4NjY1NTM1MS9VUDUyNTgtUFBTQTEwODI5XzAwLTI2NDg2MDc4MzA2NDgxNDJfQkFTRV8wLmV4ZmF0",
+      "fileOffset": 0,
+      "fileSize": 745537536,
+      "hashValue": "BAFB20F1FB482CBC3253B52DF58E6580D63BF490"
+    }
+  ]
+}

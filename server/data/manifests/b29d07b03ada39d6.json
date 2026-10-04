@@ -1,0 +1,73 @@
+{
+  "originalFileSize": 19530016516,
+  "packageDigest": "9C7C832BFDEBCA5DFC1D813EC35A3C45F13EFD96E8DAD32F7CBDD6A4E8F3326A",
+  "numberOfSplitFiles": 11,
+  "pieces": [
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfMC5wa2c=",
+      "fileOffset": 0,
+      "fileSize": 1900000000,
+      "hashValue": "B9DF59EC5B6E2651EDAF8C2199A4EC801A68B353"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfMS5wa2c=",
+      "fileOffset": 1900000000,
+      "fileSize": 1900000000,
+      "hashValue": "0313414E8966661C25EC8AE95E7C38DEB353E73C"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfMi5wa2c=",
+      "fileOffset": 3800000000,
+      "fileSize": 1900000000,
+      "hashValue": "98CFB6956FC0C319DA290AFA42FF40C1A639773D"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfMy5wa2c=",
+      "fileOffset": 5700000000,
+      "fileSize": 1900000000,
+      "hashValue": "9153DF0F574F5861E7688E61500F8B6D56C4C54E"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfNC5wa2c=",
+      "fileOffset": 7600000000,
+      "fileSize": 1900000000,
+      "hashValue": "E0EBCCAD00FB489317B00DEC7E8AB168E3F94644"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfNS5wa2c=",
+      "fileOffset": 9500000000,
+      "fileSize": 1900000000,
+      "hashValue": "602BD3FC82759EB5631AC14604DC28D20E4E3C8C"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfNi5wa2c=",
+      "fileOffset": 11400000000,
+      "fileSize": 1900000000,
+      "hashValue": "65C84A98C325533C18A11374A1E3D8D2BFAD6398"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfNy5wa2c=",
+      "fileOffset": 13300000000,
+      "fileSize": 1900000000,
+      "hashValue": "C0D1F24ECE740D8967F309C9F4D48A71BA650000"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfOC5wa2c=",
+      "fileOffset": 15200000000,
+      "fileSize": 1900000000,
+      "hashValue": "7171E88EA7DD8A93C0348E2321C3AEBCBED89BA8"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfOS5wa2c=",
+      "fileOffset": 17100000000,
+      "fileSize": 1900000000,
+      "hashValue": "857C964315DA87E936ADC5C232205C160E178CB9"
+    },
+    {
+      "url": "https://api.spectrumlibrary.online/dl?u=aHR0cHM6Ly9naXRodWIuY29tL2V0ZXJudW1wbGF5Mi91cGxheS9yZWxlYXNlcy9kb3dubG9hZC81ODg0OTE1NTMyMjQvRVAwMDAyLVBQU0EwMjQzM18wMC1DQjRUSEVHQU1FMDAwMDAxX0JBU0VfMTAucGtn",
+      "fileOffset": 19000000000,
+      "fileSize": 530016516,
+      "hashValue": "EF09329F8A3ABCD8F967CCEAC60C131A1B484745"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080b13">
+  <title>PHStore2</title>
+  <link rel="icon" type="image/png" href="/assets/phstore-logo.png">
+  <style>/*PHSTORE_CSS*/</style>
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <a class="brand" href="#games" data-focus-row="top" aria-label="PH Store Oyunlar">
+      <img src="/assets/phstore-logo.png" alt=""><span>PH <b>STORE 2</b></span>
+    </a>
+    <nav class="main-nav" aria-label="Ana gezinme">
+      <button class="nav-button active" type="button" data-page="games" data-focus-row="top">Oyunlar</button>
+      <button class="nav-button" type="button" data-page="settings" data-focus-row="top">Ayarlar</button>
+      <button class="nav-button" type="button" data-page="downloads" data-focus-row="top">İndirilenler</button>
+    </nav>
+    <div class="header-mark" aria-hidden="true">KÜTÜPHANE&nbsp; / &nbsp;PH STORE</div>
+  </header>
+  <main>
+    <section id="games-page" class="page">
+      <div class="page-heading"><div><p class="eyebrow">OYUN DÜNYANI KEŞFET</p><h1>Oyunlar</h1></div><p id="catalog-caption" class="heading-note">Kataloğa bağlanılıyor…</p></div>
+      <fieldset class="method-selector" aria-label="Katalog kaynağı">
+        <label><input id="method-ph" type="checkbox" data-focus-row="categories" checked> Method1 (PH)</label>
+        <label><input id="method-sp" type="checkbox" data-focus-row="categories"> Method2 (sp)</label>
+      </fieldset>
+      <div class="category-bar">
+        <div id="category-tabs" class="category-tabs" role="tablist" aria-label="Oyun kategorisi"></div>
+        <div class="catalog-search">
+          <span class="catalog-search-icon" aria-hidden="true">⌕</span>
+          <input id="catalog-search-input" type="search" data-focus-row="categories"
+            aria-label="Oyun adı veya Title ID ara" placeholder="Oyun veya Title ID ara..."
+            autocomplete="off" autocapitalize="off" spellcheck="false">
+          <button id="catalog-search-clear" class="catalog-search-clear" type="button"
+            aria-label="Aramayı temizle" title="Aramayı temizle" hidden>×</button>
+        </div>
+      </div>
+      <div id="search-summary" class="search-summary" aria-live="polite" hidden></div>
+      <div id="game-grid" class="game-grid" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden><span class="empty-orb">✦</span><strong>Bu kategoride oyun yok</strong><p>Katalog güncellendiğinde oyunlar burada görünecek.</p></div>
+    </section>
+    <section id="downloads-page" class="page" hidden>
+      <div class="page-heading"><div><p class="eyebrow">İNDİRME VE KURULUM</p><h1>İndirilenler</h1></div></div>
+      <p id="downloads-empty">Henüz indirme yok.</p>
+    <section id="active-download" class="active-download" aria-label="Aktif indirme" hidden>
+      <div class="active-download-heading"><div><p class="eyebrow">AKTİF İNDİRME</p><strong id="active-download-title"></strong></div>
+        <button id="active-download-open" class="install-cancel-button" type="button" data-focus-row="download">İndirmeyi göster</button></div>
+      <div id="active-download-track" class="install-progress-track" role="progressbar" aria-label="İndirme ilerlemesi" aria-valuemin="0" aria-valuemax="100"><div id="active-download-fill" class="install-progress-fill"></div></div>
+      <div class="active-download-values"><strong id="active-download-percent">0%</strong><span id="active-download-bytes"></span><span id="active-download-speed"></span><span id="active-download-eta"></span></div>
+      <p id="active-download-phase" class="active-download-phase"></p>
+    </section>
+      <section id="spectrum-download" class="settings-card" hidden aria-live="polite">
+        <strong id="spectrum-download-name"></strong><p id="spectrum-download-state"></p>
+        <p id="spectrum-download-eta">Tahmini kalan süre: Hesaplanıyor…</p>
+        <progress id="spectrum-download-progress" max="100" value="0"></progress>
+        <button id="spectrum-pause" type="button" class="catalog-refresh-button" data-focus-row="download">Duraklat</button>
+        <button id="spectrum-resume" type="button" class="catalog-refresh-button" data-focus-row="download">Devam et</button>
+        <button id="spectrum-cancel" type="button" class="install-cancel-button" data-focus-row="download">İptal et ve sil</button>
+      </section>
+      <div id="downloads-history" aria-live="polite"></div>
+    </section>
+    <section id="settings-page" class="page settings-page" hidden>
+      <div class="page-heading"><div><p class="eyebrow">TERCİHLER VE DURUM</p><h1>Ayarlar</h1></div></div>
+      <div class="settings-layout"><div class="settings-left"><div class="settings-card"><div class="settings-brand"><img src="/assets/phstore-logo.png" alt=""><div><strong>PH Store</strong><span>PlayStation için oyun mağazası</span></div></div>
+        <dl id="settings-list" class="settings-list"><div><dt>Sunucu durumu</dt><dd>Kontrol ediliyor…</dd></div></dl>
+        <button id="catalog-refresh-button" class="catalog-refresh-button" type="button" data-focus-row="settings">Kataloğu Yenile</button>
+        <button id="image-cache-button" class="catalog-refresh-button" type="button" data-focus-row="settings">Cache al</button>
+        <p id="image-cache-status" class="shortcut-status" role="status" aria-live="polite">Yalnızca kapak görselleri cihazda saklanır.</p>
+        <a class="shortcut-status" href="/api/store/images/log" target="_blank" rel="noopener">Kapak logunu aç</a>
+      </div>
+      <section class="settings-card shortcut-settings" aria-labelledby="shortcut-heading">
+        <div class="shortcut-settings-copy"><p class="eyebrow">ANA EKRAN</p><h2 id="shortcut-heading">Ana Ekran Kısayolu</h2>
+          <p>PH Store kutucuğunu PS5 Ana Ekran / Media sekmesine kurun veya yeniden kaydedin.</p>
+          <p id="shortcut-status" class="shortcut-status" role="status" aria-live="polite">Durum kontrol ediliyor…</p>
+        </div>
+        <button id="shortcut-install-button" class="shortcut-install-button" type="button">Kısayolu Kur / Yeniden Kur</button>
+      </section></div>
+      <aside class="settings-card about-card" aria-labelledby="about-heading">
+        <p class="eyebrow">PROJE</p><h2 id="about-heading">Hakkımda</h2>
+        <p class="about-copy">Yazılım geliştirmeye meraklı, yazılım geliştirmeyi ve oyunlar oynamayı seven fanatik Beşiktaş taraftarı öylesine biri, sizden biri.</p>
+        <nav class="about-links" aria-label="Sosyal medya ve iletişim">
+          <a class="about-link" href="https://github.com/PratikHackTR" target="_blank" rel="noopener noreferrer"><span class="social-icon github-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 .9a11.1 11.1 0 0 0-3.5 21.6c.55.1.75-.24.75-.53v-2.03c-3.08.67-3.73-1.31-3.73-1.31-.5-1.27-1.23-1.6-1.23-1.6-1-.68.08-.67.08-.67 1.1.08 1.67 1.14 1.67 1.14.98 1.68 2.56 1.2 3.19.92.1-.71.38-1.2.69-1.48-2.46-.28-5.05-1.23-5.05-5.47 0-1.21.43-2.2 1.14-2.97-.12-.28-.5-1.41.11-2.94 0 0 .93-.3 3.05 1.14a10.5 10.5 0 0 1 5.55 0c2.12-1.44 3.04-1.14 3.04-1.14.61 1.53.23 2.66.12 2.94.71.77 1.13 1.76 1.13 2.97 0 4.25-2.6 5.18-5.08 5.46.4.35.75 1.02.75 2.06v3.04c0 .3.2.64.76.53A11.1 11.1 0 0 0 12 .9Z"/></svg></span><span><small>GitHub</small><strong>PratikHackTR</strong></span><span class="external-mark" aria-hidden="true">↗</span></a>
+          <a class="about-link" href="https://www.youtube.com/@burakdemir8906" target="_blank" rel="noopener noreferrer"><span class="social-icon youtube-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M23 7.1a3 3 0 0 0-2.1-2.12C19 4.5 12 4.5 12 4.5s-7 0-8.9.48A3 3 0 0 0 1 7.1 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.9 3 3 0 0 0 2.1 2.12c1.9.48 8.9.48 8.9.48s7 0 8.9-.48A3 3 0 0 0 23 16.9a31 31 0 0 0 .5-4.9 31 31 0 0 0-.5-4.9ZM9.7 15.2V8.8l6 3.2-6 3.2Z"/></svg></span><span><small>YouTube</small><strong>@burakdemir8906</strong></span><span class="external-mark" aria-hidden="true">↗</span></a>
+          <a class="about-link" href="https://www.instagram.com/burak_demirr01" target="_blank" rel="noopener noreferrer"><span class="social-icon instagram-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M7.2 2h9.6A5.2 5.2 0 0 1 22 7.2v9.6a5.2 5.2 0 0 1-5.2 5.2H7.2A5.2 5.2 0 0 1 2 16.8V7.2A5.2 5.2 0 0 1 7.2 2Zm0 2A3.2 3.2 0 0 0 4 7.2v9.6A3.2 3.2 0 0 0 7.2 20h9.6a3.2 3.2 0 0 0 3.2-3.2V7.2A3.2 3.2 0 0 0 16.8 4H7.2ZM12 6.8a5.2 5.2 0 1 1 0 10.4 5.2 5.2 0 0 1 0-10.4Zm0 2a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4Zm5.5-3.3a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4Z"/></svg></span><span><small>Instagram</small><strong>@burak_demirr01</strong></span><span class="external-mark" aria-hidden="true">↗</span></a>
+          <a class="about-link contact-link" href="mailto:burakdemirkarakartal@gmail.com"><span class="social-icon mail-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7L3 7v10h18V7l-9 5Zm0-2.3L19.2 7H4.8L12 9.7Z"/></svg></span><span><small>Contact Mail</small><strong>burakdemirkarakartal@gmail.com</strong></span></a>
+        </nav>
+      </aside></div>
+      <details id="debug-panel" class="debug-panel" hidden><summary>Tanılama</summary><pre id="debug-output"></pre></details>
+    </section>
+    <section id="detail-page" class="detail-page" hidden aria-label="Oyun ayrıntıları">
+      <div id="detail-backdrop" class="detail-backdrop"></div><div class="detail-shade"></div>
+      <button id="back-button" class="back-button" type="button" data-focus-row="detail"><span aria-hidden="true">←</span> Oyunlara dön</button>
+      <div class="detail-content"><img id="detail-cover" class="detail-cover" alt=""><div class="detail-copy"><p id="detail-platform" class="eyebrow"></p><h1 id="detail-title"></h1><p id="detail-localization" class="localization-detail"></p><p id="detail-description" class="detail-description"></p><dl id="detail-fields" class="detail-fields"></dl><div id="detail-packages" class="package-list"></div><button id="install-button" class="install-button" type="button" data-focus-row="detail">YÜKLE</button><p id="install-status" class="install-note" role="status" aria-live="polite">Bu sürümde paket kurulumu etkin değil.</p><p id="installed-version-note" class="install-note" aria-live="polite"></p></div></div>
+    </section>
+  </main>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script>/*PHSTORE_JS*/</script>
+</body>
+</html>

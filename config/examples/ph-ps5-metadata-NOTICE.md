@@ -1,0 +1,1 @@
+PS5 metadata adapted from the user-supplied GPL-3.0-or-later 0.3.0 source archive. Upstream commit b1d93ba7862f124eef2a1c852f8f7bc3fc0f369c. Only the 147 game metadata records are used; none of its application UI/server/queue code is linked. Publisher cover images are fetched from their recorded public endpoints.

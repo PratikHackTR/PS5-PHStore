@@ -1,0 +1,36 @@
+{
+  "sdk_project": "https://github.com/ps5-payload-dev/sdk",
+  "sdk_commit_or_release": "unknown for supplied local Windows SDK",
+  "sdk_included": false,
+  "clang_version": "23.1.1",
+  "clang_commit": "6dfe1677ab8dffbc6ec13d53a1e0215d75147689",
+  "python": "3.14.6",
+  "node": "v24.16.0",
+  "reference_files": [
+    {
+      "file": "win/prospero-lld.exe",
+      "bytes": 251437,
+      "sha256": "fd7be8fd252afade6a16b41aa5ffc2f20d77e8aea1e3636a7b031053bd957d0c"
+    },
+    {
+      "file": "target/lib/crt1.o",
+      "bytes": 125248,
+      "sha256": "e13ce68fcd8525df4b480a37b6239827e30998284781f4dd0cf37ec06717371a"
+    },
+    {
+      "file": "ldscripts/elf_x86_64.x",
+      "bytes": 2524,
+      "sha256": "3bacf56a21602a1298752023a4c5b0c305954ddf6cdbce1464476fc9da9d9093"
+    },
+    {
+      "file": "target/lib/libc.a",
+      "bytes": 305114,
+      "sha256": "17b22ab7baec2107ee4ce4189257abbd773a9bb9ce854203e08e0581e10b72b3"
+    },
+    {
+      "file": "target/lib/libpthread.a",
+      "bytes": 8,
+      "sha256": "f0a17a43c74d2fe5474fa2fd29c8f14799e777d7d75a2cc4d11c20a6e7b161c5"
+    }
+  ]
+}
