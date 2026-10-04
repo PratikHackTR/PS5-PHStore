@@ -1,4 +1,4 @@
-[![PS5 Bedava Oyun Mağazası](https://youtube.com)](https://www.youtube.com/watch?v=9TjY7C2KV9w)
+[![PS5 Bedava Oyun Mağazası - Youtube linki](https://youtube.com)](https://www.youtube.com/watch?v=9TjY7C2KV9w)
 
 
 # PHStore2
