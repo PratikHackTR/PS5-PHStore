@@ -1,4 +1,11 @@
-[![PS5 Bedava Oyun Mağazası - Youtube linki](https://youtube.com)](https://www.youtube.com/watch?v=9TjY7C2KV9w)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=9TjY7C2KV9w" target="_blank">
+    <img src="https://youtube.com" alt="PS5 Bedava Oyun Mağazası PHStore Tanıtım" width="100%">
+  </a>
+  <br>
+  <em>▶️ Videoyu YouTube üzerinden izlemek için görsele tıklayın.</em>
+</p>
+
 
 
 # PHStore2
