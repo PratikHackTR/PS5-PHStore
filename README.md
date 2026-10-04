@@ -2,7 +2,7 @@
 Videonun üzerine veya aşağıdaki oynat ikonuna tıklayarak YouTube üzerinden detaylı rehberi izleyebilirsiniz.
 
 <p align="center">
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://www.youtube.com/watch?v=9TjY7C2KV9w" target="_blank">
     <img src="assets/kapak.png" alt="PS5 Bedava Oyun Mağazası PHStore Tanıtım" width="100%">
   </a>
   <br>
